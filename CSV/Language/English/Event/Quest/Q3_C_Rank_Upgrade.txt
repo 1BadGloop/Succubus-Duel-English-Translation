@@ -1,81 +1,81 @@
 default
-Cランクに昇格する権利を得た僕は、ギルドリングをCランクのものに変えてもらうため、ギルドを訪れていた。,
-ギルドに入ると受付さんがニコニコとした表情で僕を迎えてくれた。\nどうやら僕が勝ったという話をすでに誰かから聞いていたようだ。,
-{主人公}さん、おめでとうございます！\nCランクへの昇格戦も見事に勝ちましたね！,
-本当はわたしも応援に行きたかったのですが、\n試合の日はお仕事の都合がつかなくて・・・・。\n{主人公}さんが活躍するところちゃんと見たかったです。,
-Fランクのころから活躍を見ているので、\nすっかりわたしも{主人公}さんのファンになっちゃいました。\nこの先、Cランクでの試合も頑張ってくださいね！,
-はい、勝ちまくります！,
-強い人揃いだと思いますが頑張ります！,
-ふふ、頼もしいですね。\n本当にそれを実現してしまいそうだから、{主人公}さんはすごいです。,
-Cランクともなれば手練れ揃いですが、\n{主人公}さんならきっと勝てますよ！\n試合が楽しみです。,
-さて、それでは昇格の手続きをしますね。\nギルドリングをこちらにお渡しください。,
-僕はギルドリングを受付さんに手渡した。彼女は作業をするため、リングを持ってギルドの奥に入っていく。,
-受付さんが戻ってくるまで手持ちぶさたに待っていると、外のドアから誰かが入ってきた。,
-んー、ギルドに戻るのも久しぶりね。\n王都では戦の準備ばっかりで疲れちゃった。\nん、あら・・・？,
-あなた、もしかしてコノハの言っていた男の子かしら？,
+Cランクに昇格する権利を得た僕は、ギルドリングをCランクのものに変えてもらうため、ギルドを訪れていた。,Having earned the right to be promoted to C rank; I visited the guild to have my guild ring changed to a C rank one.
+ギルドに入ると受付さんがニコニコとした表情で僕を迎えてくれた。\nどうやら僕が勝ったという話をすでに誰かから聞いていたようだ。,When I entered the guild; the receptionist greeted me with a smile. Apparently; she had already heard from someone that I had won.
+{主人公}さん、おめでとうございます！\nCランクへの昇格戦も見事に勝ちましたね！,Congratulations {主人公} for winning the battle for promotion to C rank!
+本当はわたしも応援に行きたかったのですが、\n試合の日はお仕事の都合がつかなくて・・・・。\n{主人公}さんが活躍するところちゃんと見たかったです。,I really wanted to be there to cheer you on; but my work schedule didn't allow me to be there on the day of the game. I would have loved to have seen you in action.
+Fランクのころから活躍を見ているので、\nすっかりわたしも{主人公}さんのファンになっちゃいました。\nこの先、Cランクでの試合も頑張ってくださいね！,I've been watching your activities since you were rank F; so I've become a fan of yours. I hope you will continue to do your best in the C-rank games in the future!
+はい、勝ちまくります！,Yes; I'm going to win all of them!
+強い人揃いだと思いますが頑張ります！,I'll be facing strong opponents; but I'll do my best!
+ふふ、頼もしいですね。\n本当にそれを実現してしまいそうだから、{主人公}さんはすごいです。,Hmm; that's reassuring; isn't it? It's amazing that it seems you could really make that happen.
+Cランクともなれば手練れ揃いですが、\n{主人公}さんならきっと勝てますよ！\n試合が楽しみです。,C-ranked players are all very skilled; but I'm sure you can beat them! I'm looking forward to the matches.
+さて、それでは昇格の手続きをしますね。\nギルドリングをこちらにお渡しください。,Okay; now then; let's go through the promotion process. Please give your guild ring to me.
+僕はギルドリングを受付さんに手渡した。彼女は作業をするため、リングを持ってギルドの奥に入っていく。,I handed my guild ring to the receptionist. She walked into the back of the guild with the ring to do the work.
+受付さんが戻ってくるまで手持ちぶさたに待っていると、外のドアから誰かが入ってきた。,As I waited with baited breath for the receptionist to return; someone came in through the outside door.
+んー、ギルドに戻るのも久しぶりね。\n王都では戦の準備ばっかりで疲れちゃった。\nん、あら・・・？,Well; it's been a while since I've been back to the guild. I'm tired from all the preparations for the war in King's Landing. Oh; my...?
+あなた、もしかしてコノハの言っていた男の子かしら？,Are you the boy that Konoha mentioned?
 ・・・・？,
-わたしはリーフ、カードマスターギルドのギルドマスターよ。\nあなたの師匠であるコノハはわたしの一番弟子なの。\nそして・・・。,
-あなたがこの街に来るから気にかけてくれって、\nコノハから頼まれていたわ。\nわたしの名前をコノハから聞いているでしょう？覚えてる？,
-はい、しっかり覚えています,
-すみません、忘れていました,
-そう、いい心がけね。\nあの子もちゃんと弟子の教育ができているじゃない。,
-それにあのリングを見る限り、\nあなたもかなり努力しているのがうかがえるわ。,
-ええ…。まったくコノハはどういう教育をしているのかしら。\nわたしはあなたの「恩師」の「恩師」よ。\n名前ぐらいきっちり覚えさせておきなさいよ。,
-まあ、とはいえ、\nあれを見る限り頑張ってはきたみたいね。,
-{主人公}さん、お待たせしました。\nCランクの色に変化したギルドリングです。\nCランクはきれいな黄色なんですよ。ってあれ・・・、,
-ギルドマスター！\nお戻りになられていたんですね。,
-転移陣を使って王都から今日戻られたのでしょうか。\nお久しぶりにお会いできてうれしいです。,
-わたしもよ。\nいつも受付と事務作業ごくろうさま。,
-それにしてもこの短い期間でCランクになるだなんて、\nコノハの弟子もなかなかやるじゃない。\n名前は{主人公}ね？覚えたわ。,
-コノハによればあなたは魔族領に行って妹さんを探したいんだそうね。,
-ふむ。ちょうどいいわ。ちょっとわたしの部屋に来なさい。,
-僕は言われるままギルドマスターの後についていった。,
-さて。これはまだ正式に発表されてないから、\n内密にしておいてほしんだけど。,
-今度魔族領への進攻が計画されているの。\n遅くとも1年以内に。,
+わたしはリーフ、カードマスターギルドのギルドマスターよ。\nあなたの師匠であるコノハはわたしの一番弟子なの。\nそして・・・。,I am Leaf; Guildmaster of the Cardmaster Guild. Your master; Konoha; is my number one student. And...
+あなたがこの街に来るから気にかけてくれって、\nコノハから頼まれていたわ。\nわたしの名前をコノハから聞いているでしょう？覚えてる？,Konoha asked me to look out for you since you're in town. You know my name from Konoha; don't you? Do you remember it?
+はい、しっかり覚えています,Yes; I remember it well.
+すみません、忘れていました,Sorry; I forgot.
+そう、いい心がけね。\nあの子もちゃんと弟子の教育ができているじゃない。,Yes; that's a good attitude. She's doing a good job of training her students.
+それにあのリングを見る限り、\nあなたもかなり努力しているのがうかがえるわ。,And from that ring; I can see that you're making an effort; too.
+ええ…。まったくコノハはどういう教育をしているのかしら。\nわたしはあなたの「恩師」の「恩師」よ。\n名前ぐらいきっちり覚えさせておきなさいよ。,I wonder what kind of education Konoha is giving you. As your teacher's teacher; you should at least make sure you remember my name.
+まあ、とはいえ、\nあれを見る限り頑張ってはきたみたいね。,Though it looks like you've been working hard as far as that's concerned.
+{主人公}さん、お待たせしました。\nCランクの色に変化したギルドリングです。\nCランクはきれいな黄色なんですよ。ってあれ・・・、,Here you are; Mr. {主人公}; a guild ring that has changed to a C-rank color...C-rank is a beautiful yellow. 
+ギルドマスター！\nお戻りになられていたんですね。,Guildmaster! I see you have returned.
+転移陣を使って王都から今日戻られたのでしょうか。\nお久しぶりにお会いできてうれしいです。,Did you return today from King's Landing using the transfer circle? It's nice to see you after all this time.
+わたしもよ。\nいつも受付と事務作業ごくろうさま。,You as well. Thanks for taking care of the reception and paperwork.
+それにしてもこの短い期間でCランクになるだなんて、\nコノハの弟子もなかなかやるじゃない。\n名前は{主人公}ね？覚えたわ。,Anyways; to be ranked C in such a short period of time; Konoha's disciple is quite accomplished. Your name is {主人公}; right? I remember.
+コノハによればあなたは魔族領に行って妹さんを探したいんだそうね。,Konoha says you want to go to the demon territory to look for your sister.
+ふむ。ちょうどいいわ。ちょっとわたしの部屋に来なさい。,Hmm. Great timing. Come to my room.
+僕は言われるままギルドマスターの後についていった。,I did as I was told and followed the guildmaster.
+さて。これはまだ正式に発表されてないから、\n内密にしておいてほしんだけど。,Well. This hasn't been officially announced yet; so I'm hoping you'll keep it to yourself.
+今度魔族領への進攻が計画されているの。\n遅くとも1年以内に。,There is to be an upcoming invasion of the demon territory. Within a year at the latest.
 ・・・・・！,
-サキュバスの女王が\nまだ完全には力を取り戻していないって話は知ってるかしら？,
-本で読んだことがあります。,
-そう。勉強熱心で偉いわね。\n彼女には古代の封印の残滓が残っていて、\n今は実力の半分ほどしか出せていないと考えられているわ。,
-封印の解除には膨大な魔力を必要とするけれど、\n女王はここ数年表舞台には顔を出さず、\n力をずっと蓄えて封印の解除に専念している。,
-そして恐ろしいことに、\n学者たちの計算によれば、あと２年も魔力を蓄えられたら、\n封印がすべて解かれるのではないかという見立てなの。,
+サキュバスの女王が\nまだ完全には力を取り戻していないって話は知ってるかしら？,Did you know that the Succubus Queen has not yet regained her full strength?
+本で読んだことがあります。,I've read about it in a book.
+そう。勉強熱心で偉いわね。\n彼女には古代の封印の残滓が残っていて、\n今は実力の半分ほどしか出せていないと考えられているわ。,Yes. You are an excellent scholar. It's believed that she's only half as strong as she could be right now because of the remnants of the ancient seal.
+封印の解除には膨大な魔力を必要とするけれど、\n女王はここ数年表舞台には顔を出さず、\n力をずっと蓄えて封印の解除に専念している。,Although it takes an enormous amount of magical power to undo the seal; the queen has not made an appearance in the past few years and has been concentrating on undoing the seal by accumulating power over time.
+そして恐ろしいことに、\n学者たちの計算によれば、あと２年も魔力を蓄えられたら、\n封印がすべて解かれるのではないかという見立てなの。,And the scary thing is that according to the scholars' calculations; if she can accumulate magical power for two more years; she'll be able to completely break the seal.
 ・・・・！,
-封印が解けたら女王自身が強くなるだけじゃない、\n配下のサキュバス全員に影響が及び、\nその能力がいまより数段強くなるだろうとも予測されてる。,
-つまり人間側にとってはこの２年が勝負なの。\nもし拮抗している戦力が相手だけ強化されれば、\nこちらに勝ち目はなくなるわ。,
-さて、その侵攻作戦だけど・・・。,
-女ならCランク以上が参加の条件。男であることを加味すると、\nそうね、Bランクになれば、確実にあなたも連れて行ってあげる。,
-作戦中に余裕があればだけど、\n妹さんを探せるように、\nあなたの故郷の村の探索もさせてあげるわ。,
+封印が解けたら女王自身が強くなるだけじゃない、\n配下のサキュバス全員に影響が及び、\nその能力がいまより数段強くなるだろうとも予測されてる。,It is predicted that when the seal is broken; not only will the queen herself become stronger; but all the succubi under her control will be affected; and their abilities will become several times stronger than they are now.
+つまり人間側にとってはこの２年が勝負なの。\nもし拮抗している戦力が相手だけ強化されれば、\nこちらに勝ち目はなくなるわ。,So; for the human side; the next two years are critical. If our opponents are the only ones to grow stronger; we will not stand a chance.
+さて、その侵攻作戦だけど・・・。,Now; about that invasion operation....
+女ならCランク以上が参加の条件。男であることを加味すると、\nそうね、Bランクになれば、確実にあなたも連れて行ってあげる。,If you are a woman; you must be C rank or higher to participate. Taking into account the fact that you are a man; well; if you get to B rank; I will certainly take you.
+作戦中に余裕があればだけど、\n妹さんを探せるように、\nあなたの故郷の村の探索もさせてあげるわ。,If there is enough time during the operation; I will let you explore your home village so that you can find your sister.
 ・・・！,
-ま、頑張りなさい。\nこの大会が終わるまでにランクアップしていれば、\nそれで間に合うはずよ。,
-そう言うと、ポンと僕の肩を叩き、リーフさんは微笑んだ。師匠の師匠だけあって何だか頼もしい人だ。,
-僕は「ありがとうございます！」と言っておじぎをすると、部屋を退出した。,
-{主人公}さん、お疲れ様です。\nギルドマスターとのお話は終わりましたか？,
-ふふ、元々やる気に満ちた目でしたけど、\nなんだか更に闘志に燃えているように見えます。,
-Cランクでの試合が楽しみですね！応援してます！,
-ランクがCランクにアップした！,
-その日の夜。僕はまた昔の夢を見ていた。,
-これは確か、村がサキュバスたちに襲撃される前、まだ村が平和だったときの記憶だ。,
-もうすぐ始まるお祭りにそなえて、二人で飾りを作っていた。子供だった僕たちはよく二人きりで留守番をしていたから、こういう手作業もよく二人でやったものだ。,
-ふふ、お兄ちゃん、下手っぴだね。\nわたしより年上なのに、こういうのはわたしの方が上手♪\nほら見て、すごいでしょ！,
-そう言って僕に出来た飾りを見せつける。僕はすごいねと言って、彼女の頭をなでてあげた。,
-えへへ…。,
-ねえねえ、お兄ちゃん。\n「作る」って言えばさ、\nカードって、どうやってできているんだろうね？,
-わたし不思議なんだ。カードはモンスターのお腹の中から出てきたり、\n古い遺跡から見つかったりするらしいけど…。\n昔の人やモンスターはカードを作ることができたのかな？,
-ねえ、もしもカードを作ることができるのならね、\nわたし、お兄ちゃんとお父さんが使うカードを作りたい！\nわたしの作ったカードで、お兄ちゃんたちを助けるの！,
-わたし、お父さんの子供なのに、全然カードが使えないから…。\nその分、カードのこといっぱい勉強して、\nお兄ちゃんたちと一緒に悪いモンスターと戦うんだ。,
-わたしがカードを作れたら、ぜったい使ってね！お兄ちゃん！,
-（朝か・・・・。）,
-妹は僕より小さいのに、とても頭のいい子で、色々な難しいことを考えていた。あまり覚えていなかったが、カードを作りたいなんてことも言っていたらしい。,
-もしあの時サキュバスに捕まらず、一緒に逃げてこれていたなら、いまごろ僕なんかよりずっとすごい子になっていたんじゃないだろうか。,
-もしかしたら僕と妹はチームを組んで、二人で作戦を練りながら一緒に強い魔物と戦っていたりしていたのかもしれない。,
+ま、頑張りなさい。\nこの大会が終わるまでにランクアップしていれば、\nそれで間に合うはずよ。,Well; good luck. If you're up in rank by the end of this tournament; you should make it.
+そう言うと、ポンと僕の肩を叩き、リーフさんは微笑んだ。師匠の師匠だけあって何だか頼もしい人だ。,When she said this; she tapped me on the shoulder and smiled. She's a very dependable person; as she is the mentor of my master.
+僕は「ありがとうございます！」と言っておじぎをすると、部屋を退出した。,I said “Thank you!” and bowed and left the room.
+{主人公}さん、お疲れ様です。\nギルドマスターとのお話は終わりましたか？,Thank you for your time; {主人公}. Have you finished talking with the guildmaster?
+ふふ、元々やる気に満ちた目でしたけど、\nなんだか更に闘志に燃えているように見えます。,You were already very motivated; but your eyes seem to have even more passion now.
+Cランクでの試合が楽しみですね！応援してます！,I'm looking forward to seeing your games in C rank! I'll be rooting for you!
+ランクがCランクにアップした！,Rank increased to C!
+その日の夜。僕はまた昔の夢を見ていた。,That night. I had a reoccuring dream once again.
+これは確か、村がサキュバスたちに襲撃される前、まだ村が平和だったときの記憶だ。,This is; as I recall; a memory from before the village was attacked by succubi; when the village was still peaceful.
+もうすぐ始まるお祭りにそなえて、二人で飾りを作っていた。子供だった僕たちはよく二人きりで留守番をしていたから、こういう手作業もよく二人でやったものだ。,We were making decorations for the festival that was about to begin. As children; we often stayed at home alone; so we normally did this kind of work together.
+ふふ、お兄ちゃん、下手っぴだね。\nわたしより年上なのに、こういうのはわたしの方が上手♪\nほら見て、すごいでしょ！,You're not very good at this; are you; big brother? You're older than me; but I'm better at this kind of thing!
+そう言って僕に出来た飾りを見せつける。僕はすごいねと言って、彼女の頭をなでてあげた。,She then showed me the ornament she had made. I told her it was amazing and patted her head.
+えへへ…。,Ehehe... 
+ねえねえ、お兄ちゃん。\n「作る」って言えばさ、\nカードって、どうやってできているんだろうね？,Hey; hey; big brother. Speaking of “making;” how are cards made?
+わたし不思議なんだ。カードはモンスターのお腹の中から出てきたり、\n古い遺跡から見つかったりするらしいけど…。\n昔の人やモンスターはカードを作ることができたのかな？,I'm curious. I heard that cards come out of monsters' bellies or are found in old ruins.... I wonder if people and monsters in the past were able to make cards?
+ねえ、もしもカードを作ることができるのならね、\nわたし、お兄ちゃんとお父さんが使うカードを作りたい！\nわたしの作ったカードで、お兄ちゃんたちを助けるの！,Hey; if I can make a card; I want to make a card that my brother and father will use! With the cards I make; I'll help you both!
+わたし、お父さんの子供なのに、全然カードが使えないから…。\nその分、カードのこといっぱい勉強して、\nお兄ちゃんたちと一緒に悪いモンスターと戦うんだ。,Even though I'm father's child; I can't use cards at all.... So I'm going to learn a lot about cards and fight bad monsters with you.
+わたしがカードを作れたら、ぜったい使ってね！お兄ちゃん！,If I can make a card; you must use it; big brother!
+（朝か・・・・。）,(In the morning...)
+妹は僕より小さいのに、とても頭のいい子で、色々な難しいことを考えていた。あまり覚えていなかったが、カードを作りたいなんてことも言っていたらしい。,My sister was a very smart girl; even though she was younger than me; and she thought of all sorts of difficult things. I don't remember much; but I remember that she wanted to make cards.
+もしあの時サキュバスに捕まらず、一緒に逃げてこれていたなら、いまごろ僕なんかよりずっとすごい子になっていたんじゃないだろうか。,If the succubi had not caught her at that time and we had escaped together; she would have become a much more amazing person than me.
+もしかしたら僕と妹はチームを組んで、二人で作戦を練りながら一緒に強い魔物と戦っていたりしていたのかもしれない。,Maybe my sister and I would've teamed up to fight strong demons together.
 ・・・・。,
-リーフさんのおかげで、もうすぐ魔族領に行くことも見えてきた。行くための条件はBランクになること。,
-師匠にはAランクになるように言われているから、当然Aランクを目指すことはやめないけれど、ひとつ手前に手が届きそうな目標ができて俄然やる気がでてくる。,
-すぐにCランクの上位になって、さらにそこからBランクになって、\n絶対作戦に参加させてもらおう。,
-賢かった妹に恥じないだけの、立派な自分でありたい。僕は気合を入れなおして、今日もカードバトルに向かうのだった。,
-そのころ、魔王城にて。,
-ユイ様、転送陣についての調査が完了しました。,
-順調にいけばやはり利用できそうです。\nまた例の計画について報告がありましたが・・・。,
-数名連絡が取れなくなった者が出ているものの、\nおおむね順調に進んでいるようです。,
-ふふ、それはよかった…❤,
-お兄ちゃん、生きているのかな？\nわたしこんなに強くなったよ。,
-きっと迎えに行くからね・・・❤\nずっとずっと一緒にいるために・・・❤,
+リーフさんのおかげで、もうすぐ魔族領に行くことも見えてきた。行くための条件はBランクになること。,Thanks to Ms. Leaf; I could be going to the demon territory soon. The requirement to go is to be rank B.
+師匠にはAランクになるように言われているから、当然Aランクを目指すことはやめないけれど、ひとつ手前に手が届きそうな目標ができて俄然やる気がでてくる。,My master has told me to get to A rank; so naturally I won't stop aiming for A rank; but I am suddenly more motivated by having an achievable goal one step ahead of me.
+すぐにCランクの上位になって、さらにそこからBランクになって、\n絶対作戦に参加させてもらおう。,I'll get to the top of the C rank right away; and then from there to B rank. Then I'll definitely be allowed to participate in the mission.
+賢かった妹に恥じないだけの、立派な自分でありたい。僕は気合を入れなおして、今日もカードバトルに向かうのだった。,I want to be worthy enough to live up to my sister's expectations. I was fired up and headed off to card battle again today.
+そのころ、魔王城にて。,At that time; at the Demon King's castle.
+ユイ様、転送陣についての調査が完了しました。,Dear Ms. Yui; I have completed my research on the transfer circle.
+順調にいけばやはり利用できそうです。\nまた例の計画について報告がありましたが・・・。,If all goes well; it will still be useable. There was also a report on the plans for the example...
+数名連絡が取れなくなった者が出ているものの、\nおおむね順調に進んでいるようです。,Although a few people have been out of contact; the plan seems to be going well generally.
+ふふ、それはよかった…❤,Hmm; that's good to know...❤
+お兄ちゃん、生きているのかな？\nわたしこんなに強くなったよ。,Is my brother alive? I've become so strong.
+きっと迎えに行くからね・・・❤\nずっとずっと一緒にいるために・・・❤,I will come for you...❤ to be with you forever and ever...❤
