@@ -1,24 +1,24 @@
 default
-スライムのサキュバスを倒した次の日。僕は師匠に言われた通りカードマスターギルドの建物を訪ねていた。,
-あら、見ない顔ですね。新規の登録者さんですか？,
-リーフさんという方に会いに来ました。,
-ああ。あなたがコノハさんのお弟子さんですね。,
-あいにくギルドマスターのリーフは外出中ですが、\n言伝を受けております。,
-「南の村の守護者コノハが、\n若いけれど優秀な弟子をギルドに向かわせる」\nとのことでしたが…。,
-ふふ、確かになかなかの魔力ですね。\nあなたの才能がこれから伸びていくのが楽しみです。,
-さて、手紙の内容によれば、\nギルドへの登録を希望されているんですよね？,
-今回は守護者資格のあるカードマスターからの推薦ですので、\n入会審査はなしで大丈夫です。,
-さっそく書類に必要事項をお書きください。,
-書き終わりましたか？ありがとうございます。,
-えーと、お名前は{主人公}さん……、\nふむふむ、出身はだいぶ北にある村なんですね。,
-登録おつかれさまです。\n新人カードマスターはまずはFランクからのスタートです。,
-Fランクですか？,
-はい。ギルドのカードマスターにはランクがあり、\n上からA、B、C、D、E、Fと6段階あります。,
-例えば、あなたの師匠であるコノハさんは\nB級のカードマスターですね。B級ともなると\n「守護者」として地域の治安維持を任されることもあります。,
-さて、あなたはこれからギルドで任務をこなし、\n少しづつランクをあげていくわけですが…。,
-非常に良いタイミングでギルドに登録されましたね。\n今この街では10年に1度の大きな大会が開かれています。,
-大会の最中は他のカードマスターに勝つことで、\nどんどん自分のランクをあげていくことができるんですよ。,
-B級やA級になるためにはふつう何年もかかりますが、\nうまく勝ち抜ければこの大会中にA級になることだって夢ではありません。,
-F級から一気にA級まで行った人はわたしの知る限りではいませんが…\nもしかしたらあなたならできるかもしれません。頑張ってくださいね！,
-ありがとうございます！,
-ギルドメンバーになった証として、ギルドリングを手に入れた！,
+スライムのサキュバスを倒した次の日。僕は師匠に言われた通りカードマスターギルドの建物を訪ねていた。,The day after I defeated the slime succubus; I visited the Cardmaster Guild building as master had told me to do.
+あら、見ない顔ですね。新規の登録者さんですか？,Oh; you don't look familiar. Are you a new registrant?
+リーフさんという方に会いに来ました。,I came to see someone named Ms. Leaf.
+ああ。あなたがコノハさんのお弟子さんですね。,Oh. You are Ms. Konoha's disciple; aren't you?
+あいにくギルドマスターのリーフは外出中ですが、\n言伝を受けております。,Unfortunately; Guildmaster Leaf is out of town; but we have received word.
+「南の村の守護者コノハが、\n若いけれど優秀な弟子をギルドに向かわせる」\nとのことでしたが…。,Konoha; the guardian of the southern village; sends her young but talented apprentice to the guild....
+ふふ、確かになかなかの魔力ですね。\nあなたの才能がこれから伸びていくのが楽しみです。,Hmmm, you are indeed quite magical. I look forward to seeing your talent grow in the future.
+さて、手紙の内容によれば、\nギルドへの登録を希望されているんですよね？,Now, according to your letter; you wish to register with the guild; right?
+今回は守護者資格のあるカードマスターからの推薦ですので、\n入会審査はなしで大丈夫です。,This time, since it is a recommendation from a cardmaster with guardian status; you don't need to be screened for membership.
+さっそく書類に必要事項をお書きください。,Please fill out the required information on the form immediately.
+書き終わりましたか？ありがとうございます。,Have you finished writing? Thank you very much.
+えーと、お名前は{主人公}さん……、\nふむふむ、出身はだいぶ北にある村なんですね。,Let's see; your name is {主人公}; ......; and you are from a village far to the north.
+登録おつかれさまです。\n新人カードマスターはまずはFランクからのスタートです。,Thank you for your registration. New cardmasters will start with an F rank.
+Fランクですか？,F rank? 
+はい。ギルドのカードマスターにはランクがあり、\n上からA、B、C、D、E、Fと6段階あります。,Yes; as a guild cardmaster. There are six ranks of cardmasters in the guild; from A; B; C; D; E; and F from the top.
+例えば、あなたの師匠であるコノハさんは\nB級のカードマスターですね。B級ともなると\n「守護者」として地域の治安維持を任されることもあります。,For example; your mentor; Ms. Konoha; is a B-rank cardmaster; and as a B-rank cardmaster; you may be entrusted with maintaining the security of a community as a Guardian.
+さて、あなたはこれからギルドで任務をこなし、\n少しづつランクをあげていくわけですが…。,Now; you are going to do your duty in the guild and raise your rank little by little.
+非常に良いタイミングでギルドに登録されましたね。\n今この街では10年に1度の大きな大会が開かれています。,You have registered with the guild at a very good time. There is a big once-in-a-decade event going on in this city right now.
+大会の最中は他のカードマスターに勝つことで、\nどんどん自分のランクをあげていくことができるんですよ。,During the tournament; you can keep raising your rank by beating other card masters.
+B級やA級になるためにはふつう何年もかかりますが、\nうまく勝ち抜ければこの大会中にA級になることだって夢ではありません。,It usually takes years to get to B or A rank; but if you win the tournament successfully; it's possible to get to A.
+F級から一気にA級まで行った人はわたしの知る限りではいませんが…\nもしかしたらあなたならできるかもしれません。頑張ってくださいね！,I don't know anyone who has gone from F level to A level in one fell swoop...but maybe you can do it. I wish you the best of luck!
+ありがとうございます！,Thank you very much!
+ギルドメンバーになった証として、ギルドリングを手に入れた！,You got a guild ring as a proof of becoming a guild member!
