@@ -575,83 +575,83 @@ default
     画像,&カード画像
     if,命乞い回数,==,1
     {
-        セリフ,ううっ…。人間の男のくせに思った以上に強いです…。
+        セリフ,Ugh.... You're stronger than I thought a man would be....
         if,相手,==,相手プレイヤー,
         {
-            セリフ,たいして女の子に慣れてもなさそうなのに…。カードマスターさん、あなたのことを見くびっていたみたいです。                
+            セリフ,You don't even seem to be used to girls.... Cardmaster; I think I underestimated you.                
         }else{
-            セリフ,たいして女の子に慣れてもなさそうなのに…。主人との絆、というやつでしょうか。たいしたものですね。                
+            セリフ,He doesn't even seem to be used to girls.... I guess it's the bond between him and his master. That's quite a feat. 
         }
-        セリフ,でも、それもここまで。えいっ❤
+        セリフ,But that's as far as it goes. Eiichi.❤
         画像,&足コキ,1                        
-        セリフ,抵抗なんてさせません。ドギツイ快楽で、全部奪ってあげます❤                    
+        セリフ,I won't let you resist. I'll take it all away from you with hardcore pleasure.❤                    
         話者変更,相手
-        セリフ,あううっ…❤足に飲みこまれてっ…❤
+        セリフ,Ohhhhhh...❤Swallowed up by her feet...❤
         話者変更,自分
-        セリフ,わたしのスライムボディを使ったとっておきの踏みつけ足コキです❤チンポを全部包まれて、とっても気持ちいいでしょう？
-        セリフ,このまま何回も上下に往復させてあげます。チンポを犯される快感、たっぷり楽しんでください。うふふふ❤
-        選択肢生成,彼女を振り払い、とどめを刺した,あまりの快感に体から力が抜けてしまった
+        セリフ,I'm using my slimy body to give you a stomping footjob.❤ It feels so good to have your dick all wrapped up; doesn't it?
+        セリフ,I'll stomp and stoke it as much as you'd like. Please enjoy the pleasure of having your dick stomped.❤
+        選択肢生成,I shook her off and struck.,I lost my strength.
         if,選択肢,==,1,
         {
-            セリフ,きゃあっ、そんなあの状態から起きれるなんて・・・。
+            セリフ,Geez; I can't believe you could get up from that state....
             命乞い失敗
             イベント終了
         }            
-        セリフ,さあ、始めますよ。ほら！
+        セリフ,Here we go. Voila!
         攻撃エフェクト変更,&&足コキエフェクト       
         状態異常付与,相手,寸止め                        
         イベントダメージ,相手,自分攻撃力*4+891
         話者変更,相手
-        セリフ,はひぃっ…❤❤
+        セリフ,Hah hah...❤.❤.❤
         話者変更,自分
-        セリフ,ふふ、気持ちいいでしょう？わたしに足コキされて、１分耐えた人はいないんです。           
+        セリフ,It feels good; doesn't it? No one has ever endured a foot job from me for even a minute.           
         イベントダメージ,相手,自分攻撃力*4+1221
         イベントダメージ,相手,自分攻撃力*4+1334         
         話者変更,相手
-        セリフ,あがぁっ…❤あひっ❤あううっ❤
+        セリフ,Aaahh...❤aahhhh...❤aahhhh...❤aahhhh...❤aahhhh...
         話者変更,自分
-        セリフ,このスライムには人間を興奮させる成分が入ってます。そんなものでチンポを丸ごといじめられたら、当然の結果ですよね❤
-        セリフ,こうやって、足で踏みつけるたびにっ、んふふ、とんでもない喘ぎ声が漏れちゃってます♪
-        セリフ,ほら❤ほら❤ほら❤どうしたんですか？さっきまでの威勢はどこにいったんですか？
+        セリフ,This slime has aphrodisiacs in it. If you get your dick teased whole with this stuff; it's because you deserve it.❤
+        セリフ,Every time I stomp my foot like this; you let out quite the gasp....
+        セリフ,Hora;❤ Hora;❤ Hora.❤ Where's all that swagger you had a minute ago?
         イベントダメージ,相手,自分攻撃力*4+1567
         イベントダメージ,相手,自分攻撃力*4+1649
         話者変更,相手
-        セリフ,ああっ…❤きもちいいっ、きもちいいっ・・❤
-        セリフ,もっと、踏んでぇ・・・❤あああっ・・❤
+        セリフ,Ohhh...❤ It's so good...❤
+        セリフ,Step on me more...❤Ahhhhh...❤
         話者変更,自分
-        セリフ,あはは❤とっても素直になれましたね❤それでこそ人間ですよ。
-        セリフ,サキュバスに気持ちよくしてもらえるなら、戦いのことなんてどうでもよくなっちゃう。おちんちんを支配してあげれば、頭の中も全部支配されちゃう…❤
-        セリフ,くすくす❤本当に下等生物です❤
-        セリフ,ほら、パンパンパンって音がするぐらいに、強く踏みつけてあげます。さっさとイっちゃってください。変態❤            
+        セリフ,Haha!❤ You're being quite honest.❤ That's what makes you human!
+        セリフ,If a succubus can make you feel good; you don't care about fighting. If you let her control your penis; she'll control your mind too...❤
+        セリフ,Giggle.❤ Humans really are beneath us Succubi.❤
+        セリフ,Here; I'm going to stomp on you so hard that you'll hear a slapping sound. Please come quickly. Pervert.❤            
         イベントダメージ,相手,自分攻撃力*5+1891
         イベントダメージ,相手,自分攻撃力*5+1997                                    
         話者変更,相手                  
-        セリフ,あっ、あああっ…❤            
+        セリフ,Oh; oh; oh...❤            
         とどめダメージ,相手,自分攻撃力*5+1533                                    
         フラッシュ,白
         イベント回復,自分,自分最大HP            
         画像,&立ち絵射精脚,1
         話者変更,自分                        
-        セリフ,ふふふ❤すごい量の射精です。新鮮なエナジーがこんなにたくさん・・・♪        
-        セリフ,わたしの足の中に射精できてよかったですね？おかげで体力も全回復。男の人って本当にチョロいです❤            
+        セリフ,Hmmm.❤ This is a great amount of cum. So much fresh energy.♪       
+        セリフ,You're glad you were able to ejaculate inside my leg; aren't you? Thanks to that; I recovered all my strength. Men are really fools.❤            
     }else{
-        セリフ,くっ…。またですか。思った以上に強い人が多いですね…。
-        セリフ,でも、あなたもさっきの人と同じ目に合うだけの話です。えいっ❤
+        セリフ,Damn...here we go again. This guy is stronger than I thought...
+        セリフ,But you'll end up the same way the last guy did.❤
         画像,&足コキ,1                        
-        セリフ,抵抗なんてさせません。ドギツイ快楽で、全部奪ってあげます❤                    
+        セリフ,I won't let you fight back. I'll sap your strength with intense pleasure.❤                    
         話者変更,相手
-        セリフ,あひぃっ…❤足に飲みこまれてっ…❤
+        セリフ,Ohhhh...❤Swallowed up by her feet...❤
         話者変更,自分
-        セリフ,わたしのスライムボディを使ったとっておきの踏みつけ足コキです❤チンポを全部包まれて、とっても気持ちいいでしょう？
-        セリフ,あなたが戦いながらちらちらと、わたしの足を見ていたこと気づいていましたよ。
-        セリフ,仲間がさっきされたことを、自分もされるのだろうかって、期待してたんじゃないですか？
-        セリフ,え？違うって？ふふふ、そんなことはチンポに聞けばわかります。このギンギンに勃起したチンポ、どれだけわたしの足コキに耐えられるでしょうかね❤
-        セリフ,何回も足を上下に往復させてチンポをしごく。ただそれだけなのに、さっきの人はわたしに屈服しておねだりしちゃいました。
-        セリフ,あなたも、きっと同じ❤。さあ、チンポを犯される快感、たっぷり楽しんでくださいね。うふふふ❤
-        選択肢生成,彼女を振り払い、とどめを刺した,あまりの快感に体から力が抜けてしまった
+        セリフ,I'm using my slimy body to give you a stomping footjob.❤ It feels so good to have your dick all wrapped up; doesn't it?
+        セリフ,I noticed you glancing at my legs as you fought.
+        セリフ,You were wondering if I would do to you what your friends just had done to them; weren't you?
+        セリフ,What? You're trying to deny it? Well; I'll just ask your dick. I wonder how long this cock can withstand my footjob.❤
+        セリフ,I stroked his cock a little bit; but that's all I did. The last guy gave in and begged me to do it.
+        セリフ,You seem to be the same as he was.❤ Now; please enjoy the pleasure of having your dick trampled. Mmmmmm.❤
+        選択肢生成,I shook her off and struck.,I lost my strength.
         if,選択肢,==,1,
         {
-            セリフ,きゃあっ、そんなあの状態から起きれるなんて・・・。
+            セリフ,Geez; I can't believe you could get up from that state....
             命乞い失敗            
             イベント終了
         }            
@@ -707,7 +707,7 @@ default
         if,現在ターン,==,1
         if,$ch2_kiss,==,0
         {
-            セリフ,あは、こっち来てくださいって言ったら、ほんとに来ちゃうんだぁ❤そんなにキスしてほしかったんですか？
+            セリフ,Haha; when I asked you to come over here; you really came. ❤ Did you want me to kiss you that badly?
             セリフ,手も我慢できなくておちんちんを触っちゃっている。くすくす❤1ターン目で誘惑に負けるとか護衛失格ですね❤
         }else{
             if,オナニー回数,==,1
