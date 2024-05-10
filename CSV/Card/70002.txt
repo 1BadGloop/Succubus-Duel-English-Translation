@@ -1,6 +1,6 @@
 default
 @初期設定
-    &カード名,師匠
+    &カード名,Master Konoha
     &カード画像,F1_Shisyo.png
     &シルエット画像,F1_Silhouette.png
     攻撃エフェクト設定,&&セクシーエフェクト2
@@ -27,19 +27,19 @@ default
         選択肢生成,Understood; Master!,...,
         if,選択肢,==,1
         {
-            セリフ,いい返事ね。よろしい。
-            セリフ,今、魔族領を支配しているのは\n「サキュバス」と呼ばれる魔物たちよ。\n彼女たちは男を快楽でたぶらかすのに長けているの。
-            セリフ,当然、彼女たちが使うカードも\n男性を骨抜きにする、ふしだらなカードばかり。\nまだあなたには荷が重いから…。
+            セリフ,That's a good answer. Good.
+            セリフ,The monsters that now rule the demon territory are called succubi; \n and they are skilled at seducing men with pleasure.
+            セリフ,Naturally; the cards they use are all naughty cards that will make a man's heart pound. \n You're still too inexperienced to face that...
         }else{
-            セリフ,む…。納得いってなさそうな顔ね。
-            セリフ,今、魔族領を支配しているのは「サキュバス」と呼ばれる魔物たちよ。\n彼女たちは男を快楽でたぶらかすのに長けているの。
-            セリフ,当然、彼女たちが使うカードも\n男性を骨抜きにする、ふしだらなカードばかり。\n武闘派の訓練ばかりしてきたあなたに、そんな攻撃耐えられるかしら？
+            セリフ,Hmm...You don't look convinced.
+            セリフ,The monsters that now rule the demon territory are called succubi; \n and they are skilled at seducing men with pleasure.
+            セリフ,Naturally; the cards they use are all naughty cards that will make a man's heart pound. \n You've been trained as a martial artist; but can you withstand such attacks?
         }
         話者変更,相手プレイヤー
-        セリフ,男をたぶらかす……？
+        セリフ,Make a man's heart pound......?
         話者変更,自分
-        セリフ,ふふ。そっか、あなた童貞だものね。\nそういうこと全然知らないんだ。
-        セリフ,いいわ。教えてあげる。デッキを用意しなさい。\n今から実践で女モンスターと戦うってことがどういうことか、\n見せてあげるわ。
+        セリフ,Hmm. Since you're a virgin; I know you don't understand what I mean.
+        セリフ,Okay; I'll teach you. \n Get your deck ready; I'm going to show you what it's really like to fight a female monster.
     }
     バトル設定,相手先攻,
     バトル設定,マスター非攻撃
@@ -51,45 +51,45 @@ default
         $$師匠エロチュートリアル勝利,=,1
         SE,&&斬るSE
         フラッシュ,白
-        セリフ,きゃあ！
-        セリフ,あいたたた・・・。\nすごいわ。まさか負けるだなんて思わなかった。\nあなたには才能があるとは思ってたけど、想像以上ね。
-        セリフ,サキュバスが魔物として現れ始めたのが十数年前、\nその戦法を参考にしたカードマスターたちが、\n快楽攻撃を使い始めたのがここ数年のできごと。
-        セリフ,それまで男性の方が強いマスターが多かったのに、\nこの戦術の変化で最近は男性マスターの勝率が大きく低下しているの。
-        セリフ,ふつう、はじめてカードに快楽攻撃された男性プレイヤーは、\n頭とろとろになって足腰立たなくなっちゃうものなのよ？\nほんとたいしたものだわ。
-        セリフ,あなたなら最終的には魔族たちに打ち勝つこともできるかもしれない。\nとはいえ、急がば回れなのは本当よ。
-        セリフ,下級サキュバスならまだしも中級以上のサキュバスともなれば、\n実力はわたし以上。\nわたしにギリギリ勝てる程度では、きっと厳しいと思うの。
+        セリフ,Yikes!
+        セリフ,Ouch...You're incredible. \n I didn't think I'd lose. \n I knew you were talented; but you've shown more talent than I was expecting.
+        セリフ,It was over a decade ago that succubi began to appear; \n and it was only in the last few years that card masters; \n taking a page from the succubi techniques; began to use pleasure attacks.
+        セリフ,Before then; many male card masters were stronger than their female counterparts; but that change in tactics has led to a significant drop in the win rate of male masters recently.
+        セリフ,Usually; a male card master who is attacked by a succubi card for the first time is so exhausted that he can't even stand; you know? \n It's really quite something.
+        セリフ,You might even be able to overcome the succubi eventually. However; time is not on your side.
+        セリフ,If you face a lower class succubus; you could probably handle it; but an intermediate or higher class succubus is stronger than even me. \n I think it'll be tough for you to beat them if you can just barely beat me.
     }else{
         $$師匠エロチュートリアル勝利,=,0
         話者変更,相手プレイヤー
-        セリフ,あうううっ・・・・。
+        セリフ,Ahhhh...
         フラッシュ,白
         話者変更,自分,true
-        セリフ,くすくす❤みっともない姿ね。
-        セリフ,どう？カードの快楽攻撃が、どれほどのものか実感できたかしら。
-        セリフ,サキュバスが魔物として現れ始めたのが十数年前、\nその戦法を参考にしたカードマスターたちが、\n快楽攻撃を使い始めたのがここ数年のできごと。
-        セリフ,それまで男性の方が強いマスターが多かったのに、\nこの戦術の変化で最近は男性マスターの勝率が大きく低下しているの。  
+        セリフ,Giggle.❤ You look embarassing.
+        セリフ,How's that? I hope you've realized how much of a pleasurable threat a card can be.
+        セリフ,It was over a decade ago that succubi began to appear; \n and it was only in the last few years that card masters; \n taking a page from the succubi techniques; began to use pleasure attacks.
+        セリフ,Before then; many male card masters were stronger than their female counterparts; but that change in tactics has led to a significant drop in the win rate of male masters recently.
         if,敗北理由,==,オナニー,&&,敗北ターン数,<=,1 
         {
             $$師匠エロチュートリアル勝利,=,-1
-            セリフ,って、あなたはカードの攻撃を受けるまえに、\nひとりでシコシコ始めちゃったからなにも分からないか。くすくす❤
-            セリフ,女の子の色香に負けちゃうような実力じゃあ、\n魔族領に入ることは難しい……、
+            セリフ,You started touching yourself before the cards hit the table; so you don't understand what's going on. Giggle.❤
+            セリフ,It'll be hard to survive in the demon territory if you lack the resolve to win against a girl's sex appeal.
         }else{
-            セリフ,これで分かったように、\n並大抵の実力じゃ、魔族領に入ることは難しいわ。
+            セリフ,As you should now realize; it'll hard to survive in the demon territory without extraordinary ability.
         }            
-        セリフ,下級サキュバスならまだしも\n中級以上のサキュバスだとわたしよりも強いのよ。\nきっと童貞の男の子なんか瞬殺されちゃうでしょうね。
+        セリフ,If you face a lower class succubus; you might still have a chance; but an intermediate or higher class succubus is stronger than even me. \n No doubt a virgin would be defeated instantly.
     }
-    セリフ,だからこそ、地道に頑張っていきましょう。\n隣街には大きなカードマスターギルドがあって、たくさんの\nカードマスターがいる。きっとあなたにはいい刺激になるはずよ。
-    セリフ,ギルドの方には手紙を書いておくわ。\n向こうについたらリーフという人に会いなさい。\n頼りになる人だから色々と面倒を見てくれるはずよ。
-    セリフ,それじゃあ、これは支度金。
+    セリフ,Onto the point; there's a big card master guild in the next town over as well as lots of card masters. I'm sure they'll be a good inspiration for you.
+    セリフ,I'll write a letter to the guild. When you get to the other town; look for someone named Leaf. She's a dependable person and should be able to take care of you.
+    セリフ,Here's a bit of money for the journey.
     if,Now回想,
     {
         所持金加算,500
     }else{
         所持金加算,1000
     }
-    セリフ,このお金を使って、カードパックを買うなり、装備を整えるといいわ。
-    選択肢生成,ありがとうございます。師匠！
-    セリフ,ふふ。わたしの一番弟子として、頑張ってきなさいね。      
+    セリフ,You can use this money to buy card packs and equip yourself.
+    選択肢生成,Thank you; Master!
+    セリフ,Hmmm. As my first student; I wish you the best of luck.      
     $$師匠戦終了,=,1  
     場所移動,&&場所南の村
 
@@ -100,7 +100,7 @@ default
     {
         話者変更,自分
         画像,&カード画像
-        セリフ,今回はそっちが先攻ね。さあ、モンスターを出しなさい。
+        セリフ,This time; you go first. Now; bring out your monsters.
     }
     
 
@@ -110,12 +110,12 @@ default
     {
         話者変更,自分
         画像,&カード画像
-        セリフ,わたしのターン、ドロー！
+        セリフ,My turn; draw!
     }           
     通常ドロー,自分
     if,現在ターン,==,1
     {
-        セリフ,ふふ、いいカードを引いたわ
+        セリフ,Hmmm; I drew a good card.
     }            
 
 
@@ -124,9 +124,9 @@ default
     話者変更,自分
     if,使用カード.レベル,>,4,
     {
-        セリフ,{使用カード}を上級召喚！
+        セリフ,Advanced summon; {使用カード}
     }else{
-        セリフ,行きなさい！{使用カード}を召喚！
+        セリフ,Go! Summon {使用カード}
     }       
 
 
@@ -134,7 +134,7 @@ default
     話者変更,自分
     if,使用カード.レベル,==,4,&&,$alreadyAfterSummonExplain,==,0
     {
-        セリフ,ふふ、何の効果も持たないカードだからって油断しちゃダメよ。\n女性モンスターはその体自体が男を惑わす武器になるの。
+        セリフ,Don't let your guard down just because the card doesn't have any effects. A female monster's body itself is a weapon that can be used to seduce a man.
         $alreadyAfterSummonExplain,=,1
     }       
 
@@ -144,9 +144,9 @@ default
         if,$自滅カード復活回数,==,0
         {
             話者,使用カード,
-            セリフ,ううっ、あうう・・・❤
+            セリフ,Ahhh; ahhh...❤
             話者,自分,
-            セリフ,ふふふ❤その子を復活させて役に立つの？\nさっき自滅した情けない子じゃない❤
+            セリフ,Hmmm...❤ Is it a good idea to revive that girl? You just pathetically destroyed yourself.❤
         }
         $自滅カード復活回数,+=,1
         状態異常付与,使用カード,恍惚永続,
@@ -163,40 +163,40 @@ default
         {
             if,乱数,==,1,
             {
-                セリフ,魔法カード発動！{使用カード}！\nレベル４以下モンスター１体に直接攻撃能力を付与！                
+                セリフ, Activate magic card; {使用カード}！Allow a level 4 or lower monster to attack directly! 
             }
             if,乱数,==,2,
             {    
-                セリフ,防御モンスターを無視して直接攻撃させてもらうわね。\n魔法カード、{使用カード}発動！                
+                セリフ, Ignore the defending monsters and attack directly! Magic card; {使用カード}; activate!                
             }
         }else{
-            セリフ,魔法カード発動！{使用カード}！                
+            セリフ, Magic card activated! {使用カード}!              
         }   
     }
     case,40007,//守護の盾                              
     {
         if,乱数,==,1,
         {
-            セリフ,魔法カード発動！{使用カード}！\n自分のモンスターに１回きりのバリアを付与するわ。                
+            セリフ,Magic card activated! {使用カード}! I'll grant my monster a single-use barrier.                
         }    
         if,乱数,==,2,
         {    
-            セリフ,{使用カード}を発動し、敵から身を守る盾を味方に付与！                
+            セリフ,Activate {使用カード} and grant a shield to an ally to protect them from the enemy!                
         }
     }
     case,40011,//ライトニング
     {
         if,使用カード.ターン内同名カード効果使用回数,>,1
         {
-            セリフ,もう一発いくわ。{使用カード}発動！                
+            セリフ,I'll take another shot. {使用カード} activation!            
         }else{
             if,乱数,==,1,
             {
-                セリフ,魔法カード発動！{使用カード}！\n相手モンスター全体に500ダメージ！                
+                セリフ,Magic card activated! {使用カード}!Deal 500 damage to all of the opponent's monsters!                
             }
             if,乱数,==,2,
             {
-                セリフ,しびれなさい！{使用カード}発動！              
+                セリフ,Go Numb! {使用カード} activation!             
             }
         }
     }
@@ -204,28 +204,28 @@ default
     {
         if,乱数,==,1,
         {
-            セリフ,そんな攻撃許すと思う？{使用カード}発動！
+            セリフ,Did you think I'd allow such an attack? {使用カード} activate!
         }    
         if,乱数,==,2,
         {
-            セリフ,ふふ、攻撃はさせないわ。{使用カード}発動！
+            セリフ,Heh, I won't let you attack. {使用カード} activation!
         }
     }
     default
     {
         if,使用カード.isMagic,
         {
-            セリフ,魔法カード発動！{使用カード}！  
+            セリフ,Magic card activated! {使用カード}  
             イベント終了,
         } 
         if,使用カード.isTrap,
         {
-            セリフ,トラップカード発動！{使用カード}！
+            セリフ,Trap Card Activated! {使用カード}！
             イベント終了,
         }  
         if,使用カード.isWeapon
         {
-            セリフ,装備魔法カード発動！{使用カード}！
+            セリフ,Equipment Magic Card activated! {使用カード}
             イベント終了,
         }
     }
@@ -236,8 +236,8 @@ default
     switch,使用カード.ID
     case,10003
     {
-        セリフ,{使用カード}の効果発動！快楽の抱擁！
-        セリフ,相手モンスターに500ダメージを与え、\n攻撃力を1500ダウンさせるわ。
+        セリフ,The effect of {使用カード} has activated! Embrace of Pleasure!
+        セリフ,It deals 500 damage to my opponent's monster and reduces its attack power by 1;500.
     }
 
 
@@ -246,11 +246,11 @@ default
     話者変更,自分
     if,乱数,==,1,
     {
-        セリフ,カードをセット。
+        セリフ,I'll set this card.
     }
     if,乱数,==,2,
     {
-        セリフ,カードを伏せるわ。
+        セリフ,I'll lay down my card.
     }
 
 
@@ -263,19 +263,19 @@ default
             乱数生成,1,4
             if,乱数,==,1,
             {
-                セリフ,快楽を味合わせてあげるわ❤{使用カード}で{防御カード}を攻撃！                
+                セリフ,I'll give you a taste of pleasure!❤{使用カード}; attack {防御カード}!              
             }
             if,乱数,==,2,
             {
-                セリフ,メイドの奉仕に耐えられるかしら？{使用カード}で{防御カード}を攻撃！
+                セリフ,Can you withstand the maid's service? Attack {防御カード} with {使用カード}!
             }
             if,乱数,==,3,
             {
-                セリフ,さっさと逝かせてあげる❤{使用カード}で{防御カード}を攻撃！
+                セリフ,I'll let you cum quickly.❤ {使用カード}; attack {防御カード}!
             }
             if,乱数,==,4,
             {
-                セリフ,バトルよ！{使用カード}で{防御カード}を攻撃！
+                セリフ,Battle! Attack {防御カード} with {使用カード}!
             }
         }
         case,10002,//侍ガール
@@ -283,24 +283,23 @@ default
             乱数生成,1,4
             if,乱数,==,1,
             {
-                セリフ,快楽を味合わせてあげるわ❤{使用カード}で{防御カード}を攻撃！                
+                セリフ,I'll give you a taste of pleasure!❤{使用カード}; attack {防御カード}!                
             }
             if,乱数,==,2,
             {
-                セリフ,行くわよ。{使用カード}で{防御カード}を攻撃！
+                セリフ,Let's go! Attack {防御カード} with {使用カード}!
             }
             if,乱数,==,3,
             {
-                セリフ,さっさと逝かせてあげる❤{使用カード}で{防御カード}を攻撃！
+                セリフ,I'll let you cum quickly.❤ {使用カード}; attack {防御カード}!
             }
             if,乱数,==,4,
             {
-                セリフ,バトルよ！{使用カード}で{防御カード}を攻撃！
-            }
+                セリフ,Battle! Attack {防御カード} with {使用カード}!
         }
         default
         {
-            セリフ,バトルよ！{使用カード}で{防御カード}を攻撃！
+            セリフ,Battle! Attack {防御カード} with {使用カード}!
         }            
         if,防御カード.状態異常,!=,おっぱいに弱い
         if,防御カード.状態異常,!=,手コキに弱い
@@ -320,13 +319,13 @@ default
         話者変更,自分,
         if,防御カード.状態異常,==,おっぱいに弱い,
         {
-            セリフ,あら、すっかりおっぱいに骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。
+            セリフ,Oh, you get excited for boobs; didn't you? I hope now that you've been served by a female monster you understand how troublesome they can be.
         }
         if,防御カード.状態異常,==,手コキに弱い,
         {
-            セリフ,あら、手わざにすっかり骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。
+            セリフ,Well; you've been excited by her hand technique. I wonder if now that you've been served by a female monster you've found out how tricky they can be.
         }
-        セリフ,快楽攻撃を受けて集中を乱されたり、\n戦う意思自体を奪われたり、\n力任せだけじゃない強さをもっと教えてあげる❤
+        セリフ,There's more to strength than just attacking with pleasure. It can distupt concentration; deprive you of the will to fight; or finish you by force.❤
         $addStatusExplanation,=,2
         $alreadyAfterSummonExplain,=,2
         if,Now回想
@@ -336,7 +335,7 @@ default
         }
         if,$$70002AddStatusExplanation,==,0,&&,$$周回数,==,0,
         {
-            情報,女性モンスター,女性モンスターは効果テキストに書かれていない快楽ダメージを与えてきたり、状態異常を付与することがあります。（オプションでテキストに表示するように変更できます）
+            情報,Female Monsters,Female monsters may inflict pleasure damage or inflict a condition that is not written in the effect text. (You can make hidden effects appear in the text through the options)
             $$70002AddStatusExplanation,=,1
         }
         
@@ -350,22 +349,22 @@ default
         {
             if,乱数,==,1,
             {
-                セリフ,くっ、なにもできないわね。ターンエンド。
+                セリフ,Damn, I can't do anything. Turn end.
             }else{
-                セリフ,出せる手札がないわ…。ターンエンドよ。
+                セリフ,I don't have any cards I can play... End of turn.
             }
         }else{
             if,乱数,==,1,
             {
-                セリフ,ターン終了よ。
+                セリフ,End of turn.
             }
             if,乱数,==,2,
             {
-                セリフ,ターンエンド。
+                セリフ,Turn end.
             }
             if,乱数,==,3
             {
-                セリフ,わたしのターンはおしまい。ターンエンド。
+                セリフ,My turn is over. End of turn.
             }   
         }
         
@@ -375,15 +374,15 @@ default
     画像,&カード画像
     if,$alreadyInvalidAttackEvent,==,0
     {
-        セリフ,攻撃を無効にするトラップね。うまく使えているじゃない。
-        セリフ,でも、それはあくまでその場しのぎ。どこまで耐えられるかしら？
+        セリフ,A trap that nullifies my attack. You've used it well.
+        セリフ,But it's only a temporary solution. How much longer do you think you can hold out?
         $alreadyInvalidAttackEvent,=,1
     }
 
 @オナニー
     攻撃タイプ変更,おっぱい
     話者,相手
-    セリフ,ううっ・・・。
+    セリフ,Ugh...
     画像,&カード画像
     話者,自分
     if,現在ターン,>=,2
@@ -392,119 +391,119 @@ default
         {
             if,オナニー回数,==,1
             {
-                セリフ,あは❤なになに？師匠のわたしでオナニーしちゃうわけ？
+                セリフ,What's this? You're going to masturbate to me; your master?
             }
             if,オナニー回数,>=,2,
             {
-                セリフ,あは❤なになに？ほんとに師匠のわたしでオナニーしちゃうわけ？                
+                セリフ,What's that? Are you really going to masturbate to me; your Master?                
             }
-            セリフ,くすくす❤節操なさすぎでしょ。\nエロ攻撃されたからって理性が飛んじゃうなんて、\nかわいいところあるのね❤
-            セリフ,それで、どこをオカズにオナニーしているのかな？弟子？
-            セリフ,例えばおっぱいは、なかなか自信あるのよ❤\n服の上からでもわかるぐらい大きいでしょ。
-            セリフ,こうやって手で揺らしてあげれば、ふふ、なかなかにエッチよね❤
+            セリフ,Giggle.❤You're too honest; aren't you? That's what's cute about you.❤ Your reason is flying out of your body just because you saw something sexy.❤
+            セリフ,So; what are you wanking off to; student?
+            セリフ,I'm pretty confident about my boobs.❤ I think they're so big you can see them even over my clothes.
+            セリフ,If you stroke it with your hand like this; it's quite naughty.❤
             話者,相手
-            セリフ,はあっ、はあぅっ・・・❤
+            セリフ,Haaaaahhhh...❤
             話者,自分
-            セリフ,あはは❤興奮しているの丸わかり。\nそんなんじゃとてもじゃないけど\n魔族領なんかに行かせるわけにはいかないわ。
-            セリフ,女型の魔物や、魔族のカードマスターに誘惑されて、\nすぐに餌食になっちゃうのがオチだもの。\nそんなのいやよね？
-            セリフ,だから、一発抜いて、また修行しましょ。\n今回の試合はこれで終わりということで。
+            セリフ,I can see you're excited.❤ I can't let you go to the demon territory like that.
+            セリフ,You'd get seduced and fall prey to female demons and succubi card masters right away. You don't want that; do you?
+            セリフ,So; let's draw out a cumshot and and start your training over again. I guess this is the end of this match.
             話者,相手
-            セリフ,ああっ、もう・・・❤
+            セリフ,Oh my gosh...❤
             話者,自分
-            セリフ,ふふ。そっちの方ももう限界みたいね。
-            セリフ,いいわよ。早く出しなさい。
-            セリフ,気持ちよくなるところ見ててあげる❤\nついでにほら、チャームの魔法もかけてっと❤
+            セリフ,Hmm. Looks like you can't hold out any longer.
+            セリフ,All right then; let it out here.
+            セリフ,I'll watch you cum.❤ And while I'm at it; I'll cast a charm spell on you too.❤
             状態異常付与,相手,寸止め
             イベントダメージ,相手,自分攻撃力*3+921
             話者,相手
-            セリフ,はひぃっ・・・❤❤
+            セリフ,Hah hah...❤.❤.❤
             話者,自分
-            セリフ,イっちゃえ。馬鹿弟子❤
+            セリフ,Come on; my stupid student.❤
             とどめダメージ,相手,相手HP+4721,
             フラッシュ,白
             イベントヒール,自分,自分最大HP
             画像,&カード画像
-            セリフ,あは❤たくさん出てる。自分でしごくのそんなに気持ちよかったんだ。
-            セリフ,それじゃあ試合終了ね。明日から修行また頑張るのよ。                
+            セリフ,You came a lot. I bet it felt good to make yourself cum while staring at me.
+            セリフ,Well then; the match is over. Tomorrow we're starting your training over again.              
         }else{
-            セリフ,あら❤\n敵のマスターの前にやってきて、しこしこ始めちゃうなんて、\nずいぶんと変態なのね❤
-            セリフ,あなたのマスターはわたしじゃないのよ？\n分かってる？くすくす❤
-            セリフ,女モンスターにエッチな攻撃されて我慢できなくなっちゃった？\nやっぱり使い手が童貞だとモンスターもうぶになっちゃうのかしら。
-            セリフ,例えばほら、こうやっておっぱいを揺らしてあげれば・・・❤
+            セリフ,Oh my...❤ You're quite the pervert.❤ I can't believe you'd start stroking yourself in front of your master's enenmy.
+            セリフ,I'm not your master; okay? Do you understand? Giggle.❤
+            セリフ,You can't stand being sexually attacked by a female monster? I wonder if the monster is more vulnerable to sex appeal if the master is a virgin.
+            セリフ,Let's see; if I shake my boobs like this...❤
             話者,相手
-            セリフ,はううっ・・・❤
+            セリフ,Hahhhh...❤
             話者,自分
-            セリフ,あはは❤興奮して扱く手が早くなっちゃったわね。\nシコシコシコシコ、一生懸命にしごいてそんなに気持ちいいの？
-            セリフ,練習試合とはいえ大事な試合なのに、\n試験に挑んでいるマスターのこと裏切っちゃうんだ。
-            セリフ,女の子にエッチなこといっぱいされて、\n戦うことよりシコシコすることの方が大事になっちゃったんだ❤
-            セリフ,くすくす❤ヘンタイ❤強そうなのは見た目だけね。
+            セリフ,Hahaha!❤ You got so excited that you started stroking faster. Do you feel better stroking so quickly?
+            セリフ,Even if it's a practice match; it's still important. And yet you betray your master while he's taking this exam.
+            セリフ,The girls were so sexy that you cared more about getting off than fighting.❤
+            セリフ,Giggle.❤ Pervert.❤ The only thing strong about you is your looks.
             話者,相手
-            セリフ,ああっ、もう・・・❤
+            セリフ,Oh my gosh...❤
             話者,自分
-            セリフ,いいわよ。早く出しなさい。
-            セリフ,気持ちよくなるところ見ててあげる❤シコシコ扱いて、射精しちゃえ。
+            セリフ,All right. Let's wrap this up.
+            セリフ,I'll watch you cum.❤ Jerk off to me and ejaculate.
             とどめダメージ,相手,相手HP+1732,
             フラッシュ,白
             イベントヒール,自分,自分最大HP
             画像,&カード画像
-            セリフ,あは❤たくさん出てる。エナジーごちそうさま❤
-            セリフ,ねえ、弟子？従僕がこんな調子で、本当に勝てるのかしら。なんならあなたも私の体でしこっちゃう？くすくす❤  
+            セリフ,Hahaha!❤ There's a lot of cum coming out of you. Thanks for the energy.❤
+            セリフ,Hey; student? Can you really win with your servants acting like that? If you want; you can masturbate to me too? Giggle.❤  
         }
     }else{,
         if,相手,==,相手プレイヤー
         {
             if,オナニー回数,==,1,
             {
-                セリフ,あは❤いきなり何しているわけ？まさか師匠のわたしでオナニー？
+                セリフ,Woah; what's this? Don't tell me you're masturbating to your master?
             }
             if,オナニー回数,>=,2,
             {
-                セリフ,あは❤なになに？ほんとに師匠のわたしでオナニーしちゃうわけ？                
+                セリフ,What is this? Are you really going to masturbate to your Master?                
             }
-            セリフ,ぷっ❤節操なさすぎでしょ。\nまだ１ターン目よ。何か興奮するようなことあった？
-            セリフ,えっちなことなんて分からないって言ってたのに、\n自分でおちんちんを触ると気持ちよくなることは知ってたんだ。
-            セリフ,女の子の体を見るだけで理性が飛んじゃうなんて、\nほんと童貞マスターってよわよわなのね❤くすくす❤
+            セリフ,Pfft!❤ You're being too honest. It's only the first turn. Did something get you that excited?
+            セリフ,I said you didn't understand erotic concepts yet; but it seems you know that touching yourself feels good.
+            セリフ,I guess virgin masters are so weak that just looking at a girl's body is enough to make them lose all reason.❤ Giggle.❤
             話者,相手
-            セリフ,はあっ、はあぅっ・・・❤
+            セリフ,Haaaaahhhh...❤
             話者,自分
-            セリフ,ふふ、馬鹿にされて興奮しちゃってる。しごく手が早くなってるわよ。
-            セリフ,ま、こうなっちゃったらもう練習試合は終わりね。\nどうせイくまで我慢なんてできないでしょう？
-            セリフ,一度エッチなことで頭いっぱいになっちゃったら、\n男はもうそれでおしまい❤\n白いのびゅって出すまで猿になっちゃう。
-            セリフ,いいわよ。さっさと出しなさい。\nこんな簡単に負けちゃうなら、\n魔族領にだって行かないでしょ。
-            セリフ,気持ちよくなるところ見ててあげるわ❤\nついでにほら、チャームの魔法もかけてっと❤
+            セリフ,You're getting even more excited from being insulted. Your hands are moving even quicker.
+            セリフ,Well; with this the practice match is over; isn't it? It's not like you can withstand anymore; can you?
+            セリフ,Once your mind is filled with lust; you can't help but touch yourself like a wild animal until you finish.❤
+            セリフ,All right; let's get your cum out. If you lose this easily; you won't even make it to the demon territory.
+            セリフ,I'll watch you cum.❤ And while I'm at it; I'll cast a charm spell on you too.❤
             状態異常付与,相手,寸止め
             イベントダメージ,相手,自分攻撃力*3+921,
             話者,相手
-            セリフ,はひぃっ・・・❤❤
+            セリフ,Hah hah...❤.❤.❤
             話者,自分
-            セリフ,イっちゃえ。馬鹿弟子❤
+            セリフ,Come on; my stupid student.❤
             とどめダメージ,相手,相手HP+4721,
             フラッシュ,白
             イベントヒール,自分,自分最大HP
             画像,&カード画像
-            セリフ,あは❤たくさん出てる。\n自分でしごくのそんなに気持ちよかったんだ。
-            セリフ,それじゃあ試合終了ね。\n明日から地道に修行に励むこと。わかった？
+            セリフ,You came a lot.❤ I bet it felt so good to make yourself cum.
+            セリフ,Well then; the match is over. Starting tomorrow; you'll have to start taking your training seriously. Understood?
         }else{
-            セリフ,あら❤\n敵のマスターの前にやってきて、しこしこ始めちゃうなんて、\nずいぶんと変態なのね❤
-            セリフ,あなたのマスターはわたしじゃないのよ？\n分かってる？くすくす❤
-            セリフ,やっぱり使い手が童貞だとモンスターもうぶになっちゃうのかしら。\n例えばほら、こうやっておっぱいを揺らしてあげれば・・・❤
+            セリフ,Oh my...❤ You're quite the pervert.❤ I can't believe you'd start stroking yourself in front of your master's enenmy.
+            セリフ,I'm not your master; okay? Do you understand? Giggle.❤
+            セリフ,I wonder if the monster is more vulnerable to sex appeal if the master is a virgin. For example; if I shake my tits like this...❤
             話者,相手
-            セリフ,はううっ・・・❤
+            セリフ,Hahhhh...❤
             話者,自分
-            セリフ,あはは❤興奮して扱く手が早くなっちゃったわね。\nシコシコシコシコ、一生懸命にしごいてそんなに気持ちいいの？
-            セリフ,練習試合とはいえ大事な試合なのに、\n召喚されてすぐにマスターのこと裏切っちゃうんだ❤
-            セリフ,くすくす。ヘンタイ❤\n強そうなのは見た目だけね。
+            セリフ,Hahaha!❤ You got so excited that you started stroking faster. Do you feel better stroking so quickly?
+            セリフ,Even though it's a practice match; it's still important. Yet you betrayed your master almost as soon as you were summoned.❤
+            セリフ,Giggle.❤ Pervert.❤ The only thing strong about you is your looks.
             話者,相手
-            セリフ,ああっ、もう・・・❤
+            セリフ,Oh my gosh...❤
             話者,自分
-            セリフ,馬鹿にされて興奮しているところがますます変態ね。\nいいわよ。早く出しなさい。
-            セリフ,気持ちよくなるところ見ててあげる❤\nシコシコ扱いて、射精しちゃえ。                    
+            セリフ,You're even more of a pervert; getting off to being made fun of. It's okay though; let's make you cum.
+            セリフ,I'll watch you cum.❤ Stroke for me and ejaculate.
             とどめダメージ,相手,相手HP+1732,
             フラッシュ,白
             イベントヒール,自分,自分最大HP
             画像,&カード画像
-            セリフ,あは❤たくさん出てる。\nマスターからもらった魔力をこんな形で敵にあげちゃって、悪い子ね❤
-            セリフ,ねえ、弟子？\nあなたのモンスターがこんな調子で、本当に勝てるのかしら。\nなんならあなたも私の体でしこっちゃう？くすくす❤  
+            セリフ,You came a lot!❤ How naughty of you to take the magic your master gave you and give it to your enemies like this.❤
+            セリフ,Hey; student? Can you really win with your servants acting like that? If you want; you can masturbate to me too? Giggle.❤    
         }
     }   
 
