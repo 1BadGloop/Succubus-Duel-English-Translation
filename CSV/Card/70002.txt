@@ -208,7 +208,7 @@ default
         }    
         if,乱数,==,2,
         {
-            セリフ,Heh, I won't let you attack. {使用カード} activation!
+            セリフ,Heh; I won't let you attack. {使用カード} activation!
         }
     }
     default
