@@ -346,7 +346,7 @@ default
         セリフ,それじゃ、いくよ❤\nじーっておっぱいだけを見ていてね❤くすくす❤
         if,相手状態異常,==,おっぱいに弱い,
         {
-            時限選択肢,3,胸から目が離せなかった,視線をそらして攻撃した,胸から目が離せなかった
+            時限選択肢,3,I couldn't look away from her chest,I looked away and attacked,I couldn't look away from her chest
             if,選択肢,==,2
             {
                 命乞い失敗
@@ -355,7 +355,7 @@ default
                 イベント終了
             }
         }else{
-            時限選択肢,5,視線をそらして攻撃した,胸から目が離せなかった
+            時限選択肢,5,I looked away and attacked,I couldn't look away from her chest
             if,選択肢,==,1
             {
                 命乞い失敗
@@ -422,7 +422,7 @@ default
         セリフ,それじゃ、いくよ❤\nじーっておっぱいだけを見ていてね❤くすくす❤
         if,相手状態異常,==,おっぱいに弱い,
         {
-            時限選択肢,3,胸から目が離せなかった,視線をそらして攻撃した,胸から目が離せなかった
+            時限選択肢,3,I couldn't look away from her chest,I looked away and attacked,I couldn't look away from her chest
             if,選択肢,==,2
             {
                 命乞い失敗
@@ -431,7 +431,7 @@ default
                 イベント終了
             }
         }else{
-            時限選択肢,5,視線をそらして攻撃した,胸から目が離せなかった
+            時限選択肢,5,I looked away and attacked,I couldn't look away from her chest
             if,選択肢,==,1
             {
                 命乞い失敗
