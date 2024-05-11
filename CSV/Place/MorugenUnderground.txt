@@ -28,8 +28,8 @@ Auto,前半終了アナウンス,前半終了アナウンス,$$地下通路説�
     {
         メニュー追加,Stratergy Meeting,&ファイルパス,作戦会議
     }else{
-        メニュー追加,Second Time Play (Special),&ファイルパス,２周目プレイ
-        メニュー追加,Going back to town (Special),&ファイルパス,街に戻った状態にする
+        メニュー追加,New Game+ (Special),&ファイルパス,２周目プレイ
+        メニュー追加,Return to Town (Special),&ファイルパス,街に戻った状態にする
     }
     メニュー生成,左
     テキストファイル再読み込み

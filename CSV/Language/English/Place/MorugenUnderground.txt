@@ -1,24 +1,25 @@
 default
-エルル,
-タイガ,
-プラント,
-ムニン,
-フレア,
-受付さん,
-シスター,
-ギルド地下通路,
+エルル, Elulu
+タイガ, Taiga
+プラント, Plant
+ムニン, Munin
+フレア, Flare
+受付さん,Receptionist
+シスター, Sister
+ギルド地下通路, Guild Underground Passage
 Place/MorugenUnderground,
 情報収集,Investigate
 デッキ編集,Deck Edit
-タイトルに戻る,
+タイトルに戻る,Back to Title
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save
 回想,Reminisce
-作戦会議,
-(特殊)２周目プレイ,
-(特殊)街に戻った状態にする,
-少し歩いて頭もはっきりしたし、受付さんに今の状況について聞くことにしよう。,
+作戦会議, Strategy Meeting
+図鑑, Illustrations
+(特殊)２周目プレイ,(Special) New Game Plus
+(特殊)街に戻った状態にする,(Special) Return to Town
+少し歩いて頭もはっきりしたし、受付さんに今の状況について聞くことにしよう。,Now that I've walked a bit and cleared my head; it's time to ask the receptionist about the current situation.
 分かりました。状況を説明しますね。\nん・・・？,
 あいたた・・・。あれ、わたし・・・。,
 ・・・・！,
