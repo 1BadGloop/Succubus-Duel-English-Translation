@@ -1,45 +1,45 @@
 default
-案内好きの男性,
-せっかちな商人（チュートリアル：スキップ）,
-街の兵士,
-老婆,
-優しそうなカードマスター【!】,
-優しそうなカードマスター,
-❤かわいい女の子,
-❤マッサージ屋の女の子,
-マッサージ屋の女の子,
-モルゲン入口,
+案内好きの男性, Town Guide
+せっかちな商人（チュートリアル：スキップ）,Impatient Merchant (Tutorial: Skip)
+街の兵士, City Soldiers
+老婆, Old Woman
+優しそうなカードマスター【!】,Gentle Card Master【!】
+優しそうなカードマスター,Gentle Card Master
+❤かわいい女の子,❤ Cute Girl
+❤マッサージ屋の女の子,❤ Massage Parlor Girl
+マッサージ屋の女の子,Massage Parlor Girl
+モルゲン入口,Morugen Entrance
 Place/MorugenEntrance,
 情報収集,Investigate
 ショップ,Shop
 デッキ編集,Deck Edit
-タイトルに戻る,
+タイトルに戻る,Back to Title
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save
 回想,Reminisce
 次のステージへ,Next Stage
-ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,
-モルゲンより南にある集落っていうと、どれも小規模なものばかり…。\nてことは、きみはモルゲンみたいに大きい街は初めてだろう？,
-王都にはさすがに負けるけど、\n店は多いし歓楽街だってある。\n都会をぜひ満喫して行ってくれ。,
-カードを用いた戦いにおいて、デッキのバランスは非常に重要です。,
-上級モンスターは強力な分召喚が難しい…。\n5レベル以上ならコストが<b>1体</b>、\n7レベル以上ならコストが2体も必要になります。,
-下級モンスターを上級モンスターの2倍ほど多めに入れて、\nちょうどいいぐらいかもしれませんね。,
-知ってるかい？もうすぐこの街では祭りが始まるんだよ。,
-カードマスターたちがお互いに実力を競い合う、熱い祭りさ。\n周りを見るとカードマスターらしき人がいっぱいいるだろう？,
-10年に一度、このモルゲンの町はカードマスターで溢れかえるのさ。\nわたしにもカードの才能があれば、参加してみたいものなんだけどねぇ\nいやあ血が騒ぐよ。,
-やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,
-いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,
-イベントのスキップについて,
-スキップ操作,
-会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,
-またタップ操作の場合は二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,
-こんにちは。わたしはBランクのカードマスター、リーズよ。,
-見たところあなたはまだ新人かな？ギルドリングをつけてないわね。,
-ほら。わたしが指にはめているこのリングがギルドリングよ。\nギルドに所属する証で同時にランクの高さも表しているの。,
-この街に来たってことは、ギルドに入るんでしょう？\nなら、これは先輩からのご祝儀よ。,
-なんていうか、あなたからは大物になりそうな気配を感じるわ。\nだから先行投資みたいなものね。,
-あなたもわたしみたいな強いカードマスターになりなさい？\nランクが上がったらぜひ戦いましょう！,
-あらどうしたの？\nもしかしてギルドへの道がわからなくて迷子になっちゃった？,
-あそこに緑の屋根の大きな建物が見えるでしょ？\nその正面を右に曲がったら、白い屋根の建物が見えるはずよ。\nそれがギルドの建物。,
-屋根の色が独特で目立つからすぐにわかると思うわ。\nふふ、なんならお姉さんが連れて行ってあげようか？,
+ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,Welcome to the city of Morugen. Oh; did you come here from the village to the south?
+モルゲンより南にある集落っていうと、どれも小規模なものばかり…。\nてことは、きみはモルゲンみたいに大きい街は初めてだろう？,The settlements south of Morugen are all small.... So; you've never been to a city as big as Morugen; have you?
+王都にはさすがに負けるけど、\n店は多いし歓楽街だってある。\n都会をぜひ満喫して行ってくれ。,It may not be as grand as King's Landing; but Morugen has many stores and even an entertainment district. Please enjoy the city to the fullest!
+カードを用いた戦いにおいて、デッキのバランスは非常に重要です。,Deck balance is very important in card-based battles.
+上級モンスターは強力な分召喚が難しい…。\n5レベル以上ならコストが<b>1体</b>、\n7レベル以上ならコストが2体も必要になります。,The more powerful an advanced monster is; the more difficult it is to summon... The tribute cost is <b>one</b>monster for 5th level or higher summon; and <b>two</b> for 7th level or higher.
+下級モンスターを上級モンスターの2倍ほど多めに入れて、\nちょうどいいぐらいかもしれませんね。,It might be about right to balance your deck with approximately twice as many lower-level monsters as higher-level monsters.
+知ってるかい？もうすぐこの街では祭りが始まるんだよ。,Did you know? The city festival is going to start soon.
+カードマスターたちがお互いに実力を競い合う、熱い祭りさ。\n周りを見るとカードマスターらしき人がいっぱいいるだろう？,It's a fierce competition where card masters compete with one other. Look around you and you see a lot of people who look like card masters; right?
+10年に一度、このモルゲンの町はカードマスターで溢れかえるのさ。\nわたしにもカードの才能があれば、参加してみたいものなんだけどねぇ\nいやあ血が騒ぐよ。,Once every ten years; the city of Morugen is filled with card masters. If I had a talent for cards; I'd love to be a part of it.
+やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,Hello there. A story...? Uh; if it's not too long; I don't mind.
+いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,No; I'm impatient; and I've no interest in listening to people's stories. I'd much rather just skip the whole thing.
+イベントのスキップについて,About Skipping Text
+スキップ操作,Skip Operation
+会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Conversations and scenes can be skipped by pressing the right mouse button. Skipping is canceled when right click is released.
+またタップ操作の場合は二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,In the case of tap operation; skipping can be performed by touching the screen with two fingers. Skipping is canceled when the fingers are released.
+こんにちは。わたしはBランクのカードマスター、リーズよ。,Hello; I'm Leeds; a B-Rank cardmaster.
+見たところあなたはまだ新人かな？ギルドリングをつけてないわね。,From the looks of it; you're still new; right? You're not wearing a guild ring.
+ほら。わたしが指にはめているこのリングがギルドリングよ。\nギルドに所属する証で同時にランクの高さも表しているの。,Look here; the ring I'm wearing right now is a guild ring. It's a sign of being a member of the guild; and at the same time; it shows how high your rank is.
+この街に来たってことは、ギルドに入るんでしょう？\nなら、これは先輩からのご祝儀よ。,If you've come to this city then that means you're planning to join the guild; right? In that case; consider this a congratulatory gift from a senior guild member.
+なんていうか、あなたからは大物になりそうな気配を感じるわ。\nだから先行投資みたいなものね。,In a way; I get the sense from you that you're going to be a pretty big deal eventually. So it's sort of like an investment in advance.
+あなたもわたしみたいな強いカードマスターになりなさい？\nランクが上がったらぜひ戦いましょう！,Think you can be a strong card master like me? Let's have a duel when you get to my rank!
+あらどうしたの？\nもしかしてギルドへの道がわからなくて迷子になっちゃった？,Hey; what's wrong? Are you lost; by any chance?
+あそこに緑の屋根の大きな建物が見えるでしょ？\nその正面を右に曲がったら、白い屋根の建物が見えるはずよ。\nそれがギルドの建物。,See that big building over there with the green roof? Turn right in front of it and you should see a building with a white roof. That's the guild hall.
+屋根の色が独特で目立つからすぐにわかると思うわ。\nふふ、なんならお姉さんが連れて行ってあげようか？,I think you'll recognize it right away because of the unique and conspicuous color of the roof. Heh; if you'd like; your big sister can take you there.

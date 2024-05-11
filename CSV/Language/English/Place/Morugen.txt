@@ -173,10 +173,10 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 クエスト「師匠との手合わせ」が追加されました,The quest 「A Meeting With Master」 has been added.
 やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,Hello there. A story...? Well; if it's not too long I don't mind.
 いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,No; I'm impatient; and I've no interest in listening to people's stories. I'd much rather just skip the whole thing.
-イベントのスキップについて,About Skipping Events
+イベントのスキップについて,About Skipping Text
 スキップ操作, Skip Operation
 会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Conversations and scenes can be skipped by pressing the right mouse button. Skipping is canceled when right click is released.
-会話や演出などは、二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,Conversations and scenes can be skipped by touching the screen with two fingers. Skipping is canceled when the fingers are released.
+会話や演出などは、二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,In the case of tap operation; skipping can be performed by touching the screen with two fingers. Skipping is canceled when the fingers are released.
 兵士であるわたしたちはカードマスターであることもありますが、\n多くは非カードマスターです。,As soldiers; some of us may be card masters; but many of us are non-card masters as well.
 人数で言えば、カードマスターより非カードマスターの方が多いため、\n犯罪なども普通の人間が犯す数の方が多いのです。\nだからこそ非力な我々であっても兵士が務まります。,In terms of numbers; crimes are most often committed by ordinary people; as there are more non-card masters than there are card masters. That's why even we ordinary people can serve as soldiers.
 カードマスターや強力な魔物が暴れている場合には、\nギルドに依頼をしてカードマスターを派遣してもらいます。,If a card master or powerful demon is out of control; send a request the guild to dispatch a card master.
