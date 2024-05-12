@@ -1,5 +1,5 @@
 default
-エルル, Elulu
+エルル, Elle
 タイガ, Taiga
 プラント, Plant
 ムニン, Munin
@@ -20,166 +20,166 @@ Place/MorugenUnderground,
 (特殊)２周目プレイ,(Special) New Game Plus
 (特殊)街に戻った状態にする,(Special) Return to Town
 少し歩いて頭もはっきりしたし、受付さんに今の状況について聞くことにしよう。,Now that I've walked a bit and cleared my head; it's time to ask the receptionist about the current situation.
-分かりました。状況を説明しますね。\nん・・・？,
-あいたた・・・。あれ、わたし・・・。,
+分かりました。状況を説明しますね。\nん・・・？,Alright; I'll explain the situation. Hmm...?
+あいたた・・・。あれ、わたし・・・。,Oh; my God... Oh; I...
 ・・・・！,
-エルルさん。目を覚ましたんですね！\nよかった…。,
-体は大丈夫ですか？どこかおかしいところなどはありませんか？,
-ありがと、うん…。大丈夫みたい。\nかなり体がだるいけれど、魔力を使い果たしたって感じのだるさよ。\n体に変な感じはしないわ。,
-はぁ・・・・。まだ現実感がないけど、\nわたしサキュバスになってたのよね。,
-人間に戻れて、本当によかった…。\n{主人公}、あなたのおかげよ。ありがとう…。,
+エルルさん。目を覚ましたんですね！\nよかった…。,Ms. Elle; you're awake! Thank God...
+体は大丈夫ですか？どこかおかしいところなどはありませんか？,How do you feel? Is there anything wrong with your body?
+ありがと、うん…。大丈夫みたい。\nかなり体がだるいけれど、魔力を使い果たしたって感じのだるさよ。\n体に変な感じはしないわ。,Thanks; yeah...I'm pretty tired and I feel as though I've used up all my magical energy; but otherwise I feel fine. I don't feel anything strange going on with my body either.
+はぁ・・・・。まだ現実感がないけど、\nわたしサキュバスになってたのよね。,Huh...I was a succubus; but it doesn't even feel like it was real yet.
+人間に戻れて、本当によかった…。\n{主人公}、あなたのおかげよ。ありがとう…。,I'm so glad to be human again... \n Thank you; {主人公}; thank you; thank you...
 ・・・・♪,
-エルルさんはほっとしたような顔で、そう言った。僕もエルルさんが無事なようで一安心だ。,
-僕らがエルルさんの回復を喜んでいると、向こうの方で足音が聞こえてきた。,
-おーい、戻ったよ。\nやっぱりこっちの道もダメみたい。\n結界でふさがれてた。,
-やはりそうでしたか…。,
+エルルさんはほっとしたような顔で、そう言った。僕もエルルさんが無事なようで一安心だ。,Elle profusely thanked me with a look of great relief. I too found myself relieved to see Elle safe.
+僕らがエルルさんの回復を喜んでいると、向こうの方で足音が聞こえてきた。,As we were rejoicing over Elle's recovery; we heard footsteps on the other side of the room.
+おーい、戻ったよ。\nやっぱりこっちの道もダメみたい。\n結界でふさがれてた。,Hey, I'm back. I guess this way is no good after all. It was blocked by wards.
+やはりそうでしたか…。,I knew it....
 ・・・・？,
-いま目覚めたばかりの、{主人公}さんとエルルさんにも\n状況を説明しますね。,
-お二人が気絶後、\nわたしたちは地下通路から町の外への脱出を図りました。\nところがどの通路にも見えない壁が存在していたんです。,
-そうそう。\n何か所か見て回ったんだけど、全部だめ。\n外へ行く道と、お城につながる道が結界でふさがれてたの。,
-どうやら敵は城を占拠し、\nこの街を守る二重結界を起動したらしいのです。,
-この街には二つの強力な結界が備えられています。\n街をぐるりと囲むものが１つ。城のまわりを囲むものが１つ。,
-１度作動したら、結界石が破壊されない限り２週間は維持されます。\n結界を作動した者の許しがなければ、\n結界を通りぬけて移動することはできません。,
-つまり、わたしたちは\n完全に外と隔絶されてしまった、というわけですね。\nこれでは逃げることも援軍を呼ぶこともできませんわ。,
-幸いここは非常用の地下通路。\n食糧の備蓄はあるので\n結界が切れるまで潜んでおくことは可能ですが…。,
-・・・それはやめておいた方がいいかもしれないわね。,
-あのね、わたし、サキュバスになっていたときに、\n頭の中に何度も声が響いてきたの。,
-小さい女の子のかわいらしい声、\nその声がわたしたちに命令をしていたわ。\n転移陣の占領は終わった、あとは街中で人間を搾り取れ、そうすれば…,
-その搾り取った力が、女王様を復活させるって。,
-女王の復活…？どういうことなのでしょうか。,
-詳しいことは分からないわ。「搾り取った魔力を集めたら、\n女王様をお招きし復活の儀式を行う」って…。\n頭の中の声はそう言ってたの。,
+いま目覚めたばかりの、{主人公}さんとエルルさんにも\n状況を説明しますね。,I will explain the situation to {主人公r} and Elle now that she's woken up.
+お二人が気絶後、\nわたしたちは地下通路から町の外への脱出を図りました。\nところがどの通路にも見えない壁が存在していたんです。,After the two of you passed out; we tried to flee the city through the underground passageways. However; invisible walls blocked off every exit.
+そうそう。\n何か所か見て回ったんだけど、全部だめ。\n外へ行く道と、お城につながる道が結界でふさがれてたの。,It's true; I checked out several pathways and they were all worthless. The road leading outside the city and the road leading torwards the castle were both sealed with wards.
+どうやら敵は城を占拠し、\nこの街を守る二重結界を起動したらしいのです。,Apparently; the enemy has laid claim to the castle and activated a two-tiered ward to secure the city.
+この街には二つの強力な結界が備えられています。\n街をぐるりと囲むものが１つ。城のまわりを囲むものが１つ。,Of the two powerful wards; one surrounds the city while the other surrounds the castle.
+１度作動したら、結界石が破壊されない限り２週間は維持されます。\n結界を作動した者の許しがなければ、\n結界を通りぬけて移動することはできません。,Once activated; the wards will remain in place for two weeks unless destroyed. No one can move through either ward without the permission of the caster.
+つまり、わたしたちは\n完全に外と隔絶されてしまった、というわけですね。\nこれでは逃げることも援軍を呼ぶこともできませんわ。,To summarize; we're completely cut off from the outside world. We can't escape or call for reinforcements.
+幸いここは非常用の地下通路。\n食糧の備蓄はあるので\n結界が切れるまで潜んでおくことは可能ですが…。,Fortunately; this passageway was stocked in case of emergency. With out stockpile of food; it's possible we could stay hidden until the wards break naturally...
+・・・それはやめておいた方がいいかもしれないわね。,...We probably shouldn't do that; though.
+あのね、わたし、サキュバスになっていたときに、\n頭の中に何度も声が響いてきたの。,You know; when I was a succubus; I kept hearing voices in my head.
+小さい女の子のかわいらしい声、\nその声がわたしたちに命令をしていたわ。\n転移陣の占領は終わった、あとは街中で人間を搾り取れ、そうすれば…,The cute voice of a little girl was the one giving us orders. The transfer circle has been captured; so now all that's left is to squeeze all the humans in the city dry and then...
+その搾り取った力が、女王様を復活させるって。,She said that the energy squeezed from the humans will be used to restore their Queen.
+女王の復活…？どういうことなのでしょうか。,Restore their Queen? They couldn't possibly mean...?
+詳しいことは分からないわ。「搾り取った魔力を集めたら、\n女王様をお招きし復活の儀式を行う」って…。\n頭の中の声はそう言ってたの。,I don't know the specifics; but the voice in my head said that 「Once we've squeezed all the magical energy out of the city; we'll invite our Queen to the resurrection ceremony...」
 ・・・・・。,
-僕はギルドマスターに見せてもらった転移陣の様子を思い出した。あそこには巨大な魔結晶があり、街中から魔力を集めることができると言っていた。,
-もしかしたら魔結晶に魔力を集めるのかもしれない,
-・・・！なるほど。確かにそれはありえますね。,
-この街には多くのカードマスターが集まっています。\nその魔力を根こそぎ集めてしまえば、\nそれは途方もないエネルギーになるでしょう。,
-その力を使えば、\n女王にかけられた強力な封印を解き、\n完全復活させることもできるのかもしれません。,
-女王が復活すれば、その影響下にあるサキュバスもみな強化されます。\nこの街にいるたくさんのサキュバスも強くなって・・・。,
-まじ？\nもう詰んでるじゃんあたしたち。\nそんなことになったらこの街だけじゃない、どこの街も滅ぼされちゃうよ。,
-地下に潜んでたって、どうにもならない。\nそんな・・・。わたしの故郷の村もこのままじゃ・・・。,
-女王の完全復活はなんとしても防がないといけない。そうなると僕たちに残された道は・・・。,
-こちらから攻め込みましょう,
-・・・・・。そうですね。\nそれ以外、わたしたちにできることはないでしょう。,
-わたしは大賛成よ！どんどん攻めましょう！\n隠れてるのは性に合わないもの。,
-結界石、だっけ？それを壊せば、この結界もなくなるんでしょ？\n結界石を破壊して、城に乗り込んで、転移陣も取り戻しましょう！,
-簡単に言うけれど、この戦力じゃ無理よ。\n相手は何百人もいる。こっちはカードマスターが７人だけ。\nいくらなんでも、それは・・・。,
-・・・いえ、可能かもしれません。,
-この地下通路は、王族などが非常時に逃げ込むためのもの。\nそのため重要拠点同士をつないでいます。,
-わたしが記憶している限り、結界石の近くにも出入口があります。\nそこから出て奇襲をしかけていけば、\n外の大勢のサキュバスとの戦闘は避けられるはずです。,
-ただし結界石の付近には、\n敵の強力なサキュバスが見張りをしているでしょう。\nおそらく中級サキュバスもいると思われます。,
-そのサキュバスには勝たなければなりません。,
-このメンバーで中級サキュバスと渡り合えるのは…。,
-みんなの目が僕の方を向いた。不安そうに見つめている人もいれば、期待のまなざしで見ている人もいる。,
-任せてください,
-中級だろうと100人ぐらい余裕です,
-（ほんと頼もしくなっちゃって…。）,
-そうね、あなたならきっと勝てる。,
-みんなもそう思うでしょ？\nここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,
-ふふ。そうね、あなたなら大丈夫よね。,
-みんなもそう思うでしょ？ここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,
-はぁ…。他に手はなさそうだしね。\n分かった。わたしも賛成する。,
-わたしも賛成いたしますわ。\n男の方に負担を強いるのは教義に反しますが、\n今は仕方ありません。,
-みな口々に賛成の意を告げていく。これで目標は決まった。,
-結界の解除の仕方については任せてください。\nギルドマスターから、詳しいやり方を聞いています。,
-この地下通路についてもそうですが、\nギルドマスターが留守の時に、緊急事態に対処するのは\nわたしたちギルド職員の仕事ですから！,
-受付さんは結界の解除方法について説明を始めた。,
-結界は４つの結界石によって成立しているらしい。その結界石をすべて破壊すれば、結界は解除できるそうだ。,
-４つの結界石はそれぞれ別々の場所に置かれている、その場所は「<color=#ee7800>監獄</color>」、「<color=#ee7800>闘技場</color>」、「<color=#ee7800>学園学長室</color>」、「<color=#ee7800>ギルドマスターの部屋</color>」の4か所だそうだ。,
-女王の復活を阻んだら、\n転移陣を王都につなぎ、増援をお願いしましょう。\nそれなら多数のサキュバスが相手でも勝機があるはずです！,
-よし、作戦は定まった。結界を解除して街をサキュバスたちの手から取り戻そう！,
-「行き先を選ぶ」から目的地を選択できます。,
-何だろう。地下道に入ってエルルさんと戦った後ぐらいからだろうか、自分の魔力に違和感を感じる。,
-まるで、自分と違う魔力がどこかから流れ込んできているような…。,
-魔力が流れ込んでくるような違和感がある？\nそれってもしかして、血縁共鳴じゃない？,
-血縁共鳴は魔力がつながった血縁者が近くにいればいるほど、\n強く互いの魔力をやり取りするって聞いたことがあるわ。\nつまり・・・。,
-あなたの妹が、\nもしかしたら転移陣を通して近くに来ているのかも。,
-わたしが頭の中で聞いた声は、\n小さな女の子の声だった。\nあなたの妹がサキュバス化したのもそのぐらいの年齢よね？,
-ないとは思うけれど、\nもしかしたらそのサキュバスが妹だったり・・・？\n名前は「ユイ」って名乗ってたけど・・・。,
+僕はギルドマスターに見せてもらった転移陣の様子を思い出した。あそこには巨大な魔結晶があり、街中から魔力を集めることができると言っていた。,I recalled the guild master's explanation of the transfer circle. She had said that the huge magic crystal there gathered energy from all throughout the city.
+もしかしたら魔結晶に魔力を集めるのかもしれない,Perhaps they too have gathered magical power into crystals.
+・・・！なるほど。確かにそれはありえますね。,I see! I see! That's certainly a possibility.
+この街には多くのカードマスターが集まっています。\nその魔力を根こそぎ集めてしまえば、\nそれは途方もないエネルギーになるでしょう。,Many card masters have gathered in this city. If they absorb all that magic; the potential energy would be tremendous.
+その力を使えば、\n女王にかけられた強力な封印を解き、\n完全復活させることもできるのかもしれません。,With that energy; they could very well break the seal placed on the Queen and restore her to full power.
+女王が復活すれば、その影響下にあるサキュバスもみな強化されます。\nこの街にいるたくさんのサキュバスも強くなって・・・。,If the Queen is restored; all succubi under her command will be strengthed as well. The countless succubi in this city will become even stronger...
+まじ？\nもう詰んでるじゃんあたしたち。\nそんなことになったらこの街だけじゃない、どこの街も滅ぼされちゃうよ。,Wait; seriously? If that happens; we're all screwed. Not just this city; but every city in the world will get crushed.
+地下に潜んでたって、どうにもならない。\nそんな・・・。わたしの故郷の村もこのままじゃ・・・。,Hiding underground won't save us. No way... My hometown can't get destroyed like this...
+女王の完全復活はなんとしても防がないといけない。そうなると僕たちに残された道は・・・。,We have to prevent the Queen's return at all costs. It's the only option left for us...
+こちらから攻め込みましょう,We have to go on the offensive from here.
+・・・・・。そうですね。\nそれ以外、わたしたちにできることはないでしょう。,.....Yes; I agree. \n There's nothing else we can do.
+わたしは大賛成よ！どんどん攻めましょう！\n隠れてるのは性に合わないもの。,I'm all for it; let's go on the offensive! It's not in my nature to hide!
+結界石、だっけ？それを壊せば、この結界もなくなるんでしょ？\n結界石を破壊して、城に乗り込んで、転移陣も取り戻しましょう！,They're using warding stones; right? So if we destroy the stones; the wards will break too; right? Let's crush the stones; break into the castle; and take back the transfer circle from them too!
+簡単に言うけれど、この戦力じゃ無理よ。\n相手は何百人もいる。こっちはカードマスターが７人だけ。\nいくらなんでも、それは・・・。,That's easy to say; but we simply don't have the manpower. There's hundreds of enemies on the other side; while we only have seven card masters. It's impossible...
+・・・いえ、可能かもしれません。,...No; there may be a way.
+この地下通路は、王族などが非常時に逃げ込むためのもの。\nそのため重要拠点同士をつないでいます。,These underground passages are used by royalty and others as an emergency means of escape. Because of that; they connect several important places.
+わたしが記憶している限り、結界石の近くにも出入口があります。\nそこから出て奇襲をしかけていけば、\n外の大勢のサキュバスとの戦闘は避けられるはずです。,As far as I remember; there's another exit near one of the warding stones. If we launch a surprise attack from there; we could avoid having to face most of succubi guarding the warding stone.
+ただし結界石の付近には、\n敵の強力なサキュバスが見張りをしているでしょう。\nおそらく中級サキュバスもいると思われます。,However; there'll certainly be a powerful succubus standing guard near the stone. It's highly likely that they'll at least be intermediate level; if not higher.
+そのサキュバスには勝たなければなりません。,That succubus will have to be defeated.
+このメンバーで中級サキュバスと渡り合えるのは…。,The only person that could defeat an intermediate level succubus would be...
+みんなの目が僕の方を向いた。不安そうに見つめている人もいれば、期待のまなざしで見ている人もいる。,Everyone's eyes turned toward me. Some looked at me anxiously; others with hopeful gazes.
+任せてください,I'll take care of it.
+中級だろうと100人ぐらい余裕です,If I can spare even 100 people; I'll take on an intermediate level succubus.
+（ほんと頼もしくなっちゃって…。）,(You've become really reliable...)
+そうね、あなたならきっと勝てる。,Yes; you'll win.
+みんなもそう思うでしょ？\nここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,You all think so too; don't you? Here he is; the undefeated rookie. Even the strongest succubus is no match for him!
+ふふ。そうね、あなたなら大丈夫よね。,Hmmm. I know; you'll be fine.
+みんなもそう思うでしょ？ここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,I know you all think so too; right? Here he is; the undefeated rookie. Even the strongest succubus is no match for him!
+はぁ…。他に手はなさそうだしね。\n分かった。わたしも賛成する。,To be honest....I don't think there's any other way. I understand. I agree.
+わたしも賛成いたしますわ。\n男の方に負担を強いるのは教義に反しますが、\n今は仕方ありません。,I agree too. While it's against our doctrine to cast burden upon a man; right now it's the only thing we can do.
+みな口々に賛成の意を告げていく。これで目標は決まった。,Everyone expressed their agreement with the plan. Our goal was now set.
+結界の解除の仕方については任せてください。\nギルドマスターから、詳しいやり方を聞いています。,Leave the explanation on deactivating the warding stone to me. The guildmaster gave me detailed instructions on how to do it.
+この地下通路についてもそうですが、\nギルドマスターが留守の時に、緊急事態に対処するのは\nわたしたちギルド職員の仕事ですから！,As for this underground passageway; it's the job of the guild staff to deal with emergencies when the guildmaster is away!
+受付さんは結界の解除方法について説明を始めた。,The receptionist began to explain how to remove the warding.
+結界は４つの結界石によって成立しているらしい。その結界石をすべて破壊すれば、結界は解除できるそうだ。,She said that the ward is powered by four warding stones. If all stones are destroyed; the ward can be lifted.
+４つの結界石はそれぞれ別々の場所に置かれている、その場所は「<color=#ee7800>監獄</color>」、「<color=#ee7800>闘技場</color>」、「<color=#ee7800>学園学長室</color>」、「<color=#ee7800>ギルドマスターの部屋</color>」の4か所だそうだ。,Each of the four warding stones must be placed in a different location: <color=#ee7800>the Prison</color>; <color=#ee7800>the Arena</color>; <color=#ee7800>the School President's Office</color>; and <color=#ee 7800>the Guildmaster's Room</color>”.
+女王の復活を阻んだら、\n転移陣を王都につなぎ、増援をお願いしましょう。\nそれなら多数のサキュバスが相手でも勝機があるはずです！,Once we've prevented the Queen's revival; we should contact the royal capital and call for reinforcements. With reinforcements from the capital; we could face the massive number of succubi head-on!
+よし、作戦は定まった。結界を解除して街をサキュバスたちの手から取り戻そう！,Okay; the plan's set. Let's break the wards and take our city back from the succubi!
+「行き先を選ぶ」から目的地を選択できます。,You can select your destination from “Choose Destination”.
+何だろう。地下道に入ってエルルさんと戦った後ぐらいからだろうか、自分の魔力に違和感を感じる。,What's this? Shortly after entering the underground passage and defeating Elle; I felt an uncomfortable shift in my magical power. I didn't understand where it was coming from; much less how I could describe it.
+まるで、自分と違う魔力がどこかから流れ込んできているような…。,It's as if a different magical power is flowing in from somewhere else....
+魔力が流れ込んでくるような違和感がある？\nそれってもしかして、血縁共鳴じゃない？,Do you feel a strange sensation of magic flowing in? Could it be blood resonance?
+血縁共鳴は魔力がつながった血縁者が近くにいればいるほど、\n強く互いの魔力をやり取りするって聞いたことがあるわ。\nつまり・・・。,I've heard that blood resonance connects magic-wielding blood relatives through flows in their power. The closer those relatives are to each other; the more magic they exchange with one another. In other words...
+あなたの妹が、\nもしかしたら転移陣を通して近くに来ているのかも。,Perhaps your sister just arrived through the transfer circle.
+わたしが頭の中で聞いた声は、\n小さな女の子の声だった。\nあなたの妹がサキュバス化したのもそのぐらいの年齢よね？,The voice I heard in my head was that of a little girl. Your sister was around that age when she was turned into a succubus; wasn't she?
+ないとは思うけれど、\nもしかしたらそのサキュバスが妹だったり・・・？\n名前は「ユイ」って名乗ってたけど・・・。,I can't say for certain; but maybe that succubus really was your sister...? Her name was “Yui”...
 ・・・・！!,
-その名前を聞いたとき、僕の中の違和感は確信に変わった。,
-そうか。妹が、近くにいるのか。・・・それも敵の中心人物として。,
-ユイはとても優しい子だった。僕がサキュバスに吸い殺されないように、身を挺して守るぐらい、勇気があって優しい子だった。,
-マスターたちをサキュバス化させ、街をこんな風にしてしまうなんて…。本来の妹なら絶対にしなかっただろう。,
-ユイは、サキュバスになって、望まないことを無理やりやってしまっている。サキュバスの魔力でやらされてしまっている。,
-僕は兄として、妹を助けださないといけない。,
-師匠も妹も、僕にとって大事な人だ。どれだけ強敵が立ちふさがろうとも、絶対に助けて、人間に戻してみせる。,
-この街の人々のためにも、そして何より自分自身のためにも、この戦い絶対に負けられない！,
-はぁ、こんなことになるなんてね。\n大会で楽にポイント稼ごう、って思ってただけなのに、\nとんだ事件に巻き込まれちゃった。,
-なんとか逃げられればいいんだけど…。\nこの道街の外までつながっているのかな…。,
-うう～。正直命がけの戦いとか怖いんだけど。\nそういうの嫌だから、街で弱い男からポイントを巻き上げてたのに…。,
-まあ、モルゲンが陥落したら、どうせほかの町も危ないし…。\nどっちにしても、よね。\nサキュバスにはなりたくないし、頑張るしかないかー。,
-（にしても、頼りの綱が、わたしに散々キス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,
-（にしても、頼りの綱が、わたしにキス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,
-わたしは、あのときサキュバス相手に恐怖を抱いてしまいました。\nしかし、もはや迷いはしません。,
-おお、女神よ。我々に祝福を与えてください。\nこの困難を乗り越えるだけの力を、どうか…。,
-ん、明かりはこんな感じで大丈夫？\n火の魔法なら任せてよ。みんなが無駄に\n魔力を使わないでいいように、わたしが照明を担当するわ。,
-あなたと会うのは初めてよね。\nわたしはフレア。炎魔法使いのE級マスターよ。,
-無敗のルーキーの噂はかねがね聞いているわ。\nよろしくね。,
-火の魔法は魔獣相手にはかなり効果があるんだけど、\nサキュバスの体って全然燃えないらしいのよね。,
-カードマスターと同じで体に魔力をまとっているから、\nやけどとかしないみたいなの。\n本にそう書いてあったわ。,
-でも、わたしの攻撃魔法は範囲が広いから、\n敵が密集してるなら、少しは効果があるかも。\n集団戦でなら役に立ってみせるわ。,
-感じる…。姉ちゃんの魔力がおかしくなってる。\n俺、姉ちゃんと魔力のつながりがあるから、分かるんだ…。,
-姉ちゃんはサキュバスのカードなんて使ってなかったのに…。\nもしかして、外でサキュバスに襲われて、\nサキュバスになっちまったのかな。,
-姉ちゃんあんなに強いのに…。それでも…。負けちゃうなんて…。,
-ううっ……。\nうぐっ、ぐすっ…。泣いてないよ。\nだいじょうぶ、兄ちゃんたちの邪魔にならないようにボクも頑張るから…,
-うう…。泣いてばかりじゃダメなの、分かってるよ。\n大丈夫だから…。ぐす…。,
-僕、強くなりたかったのは、\nいつも姉ちゃんに守られてばかりじゃ嫌だからだったんだ。\n姉ちゃんにかっこいいところ見せたくて、頑張ってた。,
-兄ちゃんがいるなら、サキュバスになっても治せるんだよな。\n僕、できる限りのことはなんでもするから、\nだから姉ちゃんを助けてほしい。おねがい…。,
-村のみんな元気にしてるかな…。\nあっ、無敗のルーキーさん。\nさきほどはサキュバスから助けてくださりありがとうございました。,
-わたし、サキュバスを直接見たのは初めてです。\n女であるわたしでも、彼女の目に射すくめられたら、\nそれだけで体がしびれたみたいになってしまって。,
-やはりサキュバスは危険な魔物なのですね。\n自分がサキュバスに変えられてもし村のみんなを\n襲うことになったらと思うと、考えるだけでぞっとしてしまいます。,
-村のみんな元気にしてるかな…。\n何か月も街で過ごしてたから、結構ホームシックで。\nそんなときサキュバスが出てきて、余計に寂しいです。,
-わたしたち、このままどうなってしまうんでしょう。\nこの暗い地下で、ずっと隠れて過ごすことになるんでしょうか……。,
-すぅ・・・・。すぅ・・・。,
+その名前を聞いたとき、僕の中の違和感は確信に変わった。,When I heard that name; my discomfort became far more palpable.
+そうか。妹が、近くにいるのか。・・・それも敵の中心人物として。,I see. Your sister; she's close by. ...And a key leader amongst the forces of the enemy.
+ユイはとても優しい子だった。僕がサキュバスに吸い殺されないように、身を挺して守るぐらい、勇気があって優しい子だった。,Yui was a very kind girl. She was so brave and kind that she risked her life to protect me from being sucked to death by the succubi.
+マスターたちをサキュバス化させ、街をこんな風にしてしまうなんて…。本来の妹なら絶対にしなかっただろう。,I can't believe that she'd turn Master into a succubus and turn the city into this... My original sister never would've done such a thing.
+ユイは、サキュバスになって、望まないことを無理やりやってしまっている。サキュバスの魔力でやらされてしまっている。,Yui's succubization must be forcing her to act against her will. The succubus curse must be controlling her.
+僕は兄として、妹を助けださないといけない。,As a brother; it's my duty to save my sister.
+師匠も妹も、僕にとって大事な人だ。どれだけ強敵が立ちふさがろうとも、絶対に助けて、人間に戻してみせる。,My master and my sister are both of the greatest importance to me. No matter what stands in my way; I'll stop at nothing to save them and restore their humanity.
+この街の人々のためにも、そして何より自分自身のためにも、この戦い絶対に負けられない！,For the sake of the people of this city; and more importantly for my own sake; this is a battle I must win!
+はぁ、こんなことになるなんてね。\n大会で楽にポイント稼ごう、って思ってただけなのに、\nとんだ事件に巻き込まれちゃった。,I can't believe this is happening. I was just trying to make some easy points in the tournament; but I got caught up in something terrible.
+なんとか逃げられればいいんだけど…。\nこの道街の外までつながっているのかな…。,I hope I can manage to escape.... \n I wonder if this road leads out of town....
+うう～。正直命がけの戦いとか怖いんだけど。\nそういうの嫌だから、街で弱い男からポイントを巻き上げてたのに…。,Ugh~. To be honest; I'm scared of fighting for my life or something. I don't like that kind of thing; so I was just taking points from weak guys on the street...
+まあ、モルゲンが陥落したら、どうせほかの町も危ないし…。\nどっちにしても、よね。\nサキュバスにはなりたくないし、頑張るしかないかー。,Well; if Morugen falls; the other towns are doomed anyways.... Either way; I don't wanna become a succubus; so I guess I'll just have to hang around here...
+（にしても、頼りの綱が、わたしに散々キス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(Still; the only person I can count on is the guy who I kissed and gave a handjob to....... \n I wonder if he'll really be okay.)
+（にしても、頼りの綱が、わたしにキス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(But then again; the only person I can count on is the guy I used to give kisses and handjobs to....... \n I wonder if he'll be okay.) 
+わたしは、あのときサキュバス相手に恐怖を抱いてしまいました。\nしかし、もはや迷いはしません。,At first; I felt fear when thinkingof having to face a succubus. However; there is no longer any hesitiation in my heart.
+おお、女神よ。我々に祝福を与えてください。\nこの困難を乗り越えるだけの力を、どうか…。,Oh; Goddess. Bless us. Give us the strength to overcome this trial; please....
+ん、明かりはこんな感じで大丈夫？\n火の魔法なら任せてよ。みんなが無駄に\n魔力を使わないでいいように、わたしが照明を担当するわ。,Hey; are the lights alright like this? I'll use my fire magic to take care of the lighting so that no one else has to waste their time and energy.
+あなたと会うのは初めてよね。\nわたしはフレア。炎魔法使いのE級マスターよ。,This is the first time I've properly met you. I'm Flare; an E Rank fire magician.
+無敗のルーキーの噂はかねがね聞いているわ。\nよろしくね。,I've heard a lot about your successes as the undefeated rookie. Nice to meet you.
+火の魔法は魔獣相手にはかなり効果があるんだけど、\nサキュバスの体って全然燃えないらしいのよね。,Fire magic is quite effective against magical beasts; but I've heard that succubi bodies don't burn at all.
+カードマスターと同じで体に魔力をまとっているから、\nやけどとかしないみたいなの。\n本にそう書いてあったわ。,I've read in a book that they protect themselves with magical power the same way we card masters do; so they don't get burnt or anything like that.
+でも、わたしの攻撃魔法は範囲が広いから、\n敵が密集してるなら、少しは効果があるかも。\n集団戦でなら役に立ってみせるわ。,My attack magic can cover large areas though; so if the enemies get clumped together my magic might work a litttle better. I could be useful in a group fight.
+感じる…。姉ちゃんの魔力がおかしくなってる。\n俺、姉ちゃんと魔力のつながりがあるから、分かるんだ…。,I can feel it... My sister's magic is going crazy. I can sense it because of the magical connection I share with her....
+姉ちゃんはサキュバスのカードなんて使ってなかったのに…。\nもしかして、外でサキュバスに襲われて、\nサキュバスになっちまったのかな。,My sister didn't use any succubus cards.... \n Maybe she got attacked by a succubus outside and turned into one.
+姉ちゃんあんなに強いのに…。それでも…。負けちゃうなんて…。,My sister is so strong... But still... I can't believe she lost...
+ううっ……。\nうぐっ、ぐすっ…。泣いてないよ。\nだいじょうぶ、兄ちゃんたちの邪魔にならないようにボクも頑張るから…,Urgh... Urgh; gosh... I'm not crying. I'm okay; I'll do my best not to get in everyone else's way...
+うう…。泣いてばかりじゃダメなの、分かってるよ。\n大丈夫だから…。ぐす…。,Ugh... I know I shouldn't keep crying. I'm okay... Sigh....
+僕、強くなりたかったのは、\nいつも姉ちゃんに守られてばかりじゃ嫌だからだったんだ。\n姉ちゃんにかっこいいところ見せたくて、頑張ってた。,I wanted to get stronger so that my sister wouldn't have to protect me all the time. I wanted her to see how cool I was.
+兄ちゃんがいるなら、サキュバスになっても治せるんだよな。\n僕、できる限りのことはなんでもするから、\nだから姉ちゃんを助けてほしい。おねがい…。,If my sister is out there; I'm sure we can cure her from being a succubus. I'll do everything I can; so please; save my sister. Please....
+村のみんな元気にしてるかな…。\nあっ、無敗のルーキーさん。\nさきほどはサキュバスから助けてくださりありがとうございました。,I hope everyone in the village is safe... Oh; Mr. Undefeated Rookie. Thank you for saving me from that succubus earlier.
+わたし、サキュバスを直接見たのは初めてです。\n女であるわたしでも、彼女の目に射すくめられたら、\nそれだけで体がしびれたみたいになってしまって。,It was my first time ever seeing one in person. Even though I'm a woman; my body went numb just from looking into her eyes.
+やはりサキュバスは危険な魔物なのですね。\n自分がサキュバスに変えられてもし村のみんなを\n襲うことになったらと思うと、考えるだけでぞっとしてしまいます。,After all; succubi are dangerous demons. I shudder to think what would happen if I were to be turned into a succubus and go on a rampage in my village.
+村のみんな元気にしてるかな…。\n何か月も街で過ごしてたから、結構ホームシックで。\nそんなときサキュバスが出てきて、余計に寂しいです。,I hope everyone in the village is doing well.... I've been in town for months; so I'm pretty homesick. When the succubi arrived; I felt even more lonely.
+わたしたち、このままどうなってしまうんでしょう。\nこの暗い地下で、ずっと隠れて過ごすことになるんでしょうか……。,What will happen to us? Will we spend the rest of our days hiding in this dark basement?
+すぅ・・・・。すぅ・・・。,Soooo...Soooo...
 ・・・。,
-エルルさんはまだ気を失っているようだ。,
-ふぅ…。サキュバスになったってのは何だか変な気分ね。,
-どう感じたかを説明するのは難しいけれど、なんていうか、\n「始めからサキュバスだったのを思い出した」みたいな感覚だったわ。,
-「わたしは生まれたときからサキュバスで\n人間を吸い殺すのは当然で、\n上級サキュバスの命令に従うのは気持ちよくて…。」,
-そういう感覚が、自分の深いところに当然のように居座るの。\n人間のときの記憶も残っているのに、\n生き物としてまるごと作り変えられたような感じ。,
-それに頭に響いていた声、\nあの声に従うととても気持ちよくて、\nもう何も考えられなかった…。,
-今思い出してもぞっとしちゃうわ。\n助けてくれてありがとね。{主人公}。,
-それにしても、サキュバスのカード、か…。,
-確かによく考えてみれば、\nあなたがサキュバスに襲われたときも\n行商人と一緒だったわね。,
-あのキノコ使いのサキュバスがいた場所も、\nカードパックが出土する遺跡の近く。要するに\nサキュバスのカードを流通に混ぜるのが目的だったのでしょうね。,
-大会でみんな強いカードを求めていたから、\nわたし含めまんまと乗せられちゃったわ。\n正直、悔しい。,
-怪盗サキュバスのカードは、さっきデッキから出して、\n布でぐるぐる巻きにしてそこの岩のところに置いたのだけど、\nこれでもう大丈夫なのかしら。,
-またサキュバスが出てこないか心配だわ。\nサキュバスをカードにして送りこんでくるなんて、\nほんと得体の知れない能力よね。,
-どの場所も、本来であれば多くのマスターが守っている場所です。\nしかし今回は逆にマスターたちがサキュバスにさせられてしまったため、\nこれが裏目に出てしまいました。,
-エルルさんを助け出し気絶した僕は、また夢を見ていた。,
-とめどなく昨日の光景が浮かんでいく。,
-街を埋め尽くす大勢のサキュバス。彼女たちに襲われる人間。,
-その様子はまるで、僕が子どもの時に見た、村が襲われたときの様子のようで。,
-エルルさんと無我夢中で戦っていたときには感じなかった恐怖が、いまさら、ふつふつと湧き上がってくる。,
+エルルさんはまだ気を失っているようだ。,Elle still seems to still be out of it.
+ふぅ…。サキュバスになったってのは何だか変な気分ね。,Wow... It felt kind of weird to be a succubus.
+どう感じたかを説明するのは難しいけれど、なんていうか、\n「始めからサキュバスだったのを思い出した」みたいな感覚だったわ。,It's hard to explain how it felt; but it's kind of like; 「My memories were altered so that I remembered myself as having been a succubus all my life.」
+「わたしは生まれたときからサキュバスで\n人間を吸い殺すのは当然で、\n上級サキュバスの命令に従うのは気持ちよくて…。」,「I remembered having been born a succubus; and so it was natural that I drain and kill humans and natural that it felt good to follow the orders of a superior succubus...」
+そういう感覚が、自分の深いところに当然のように居座るの。\n人間のときの記憶も残っているのに、\n生き物としてまるごと作り変えられたような感じ。,That feeling still haunts me; of course. It was as if my whole existence was remade; even though I still had my memories of when I was a human.
+それに頭に響いていた声、\nあの声に従うととても気持ちよくて、\nもう何も考えられなかった…。,And that voice echoing in my head; it felt so good to follow that voice; I couldn't think of anything else...
+今思い出してもぞっとしちゃうわ。\n助けてくれてありがとね。{主人公}。,It's horrifying to think about. Thanks for saving me; {主人公}.
+それにしても、サキュバスのカード、か…。,Still; succubus cards; huh....
+確かによく考えてみれば、\nあなたがサキュバスに襲われたときも\n行商人と一緒だったわね。,Think about it; you were with that merchant when you were first attacked by a succubus.
+あのキノコ使いのサキュバスがいた場所も、\nカードパックが出土する遺跡の近く。要するに\nサキュバスのカードを流通に混ぜるのが目的だったのでしょうね。,Then there was the place where we found that mushroom-using succubus. She was near the ruins where some card packs had been unearthed. In essence; their goals were probably to mix succubus cards into circulation.
+大会でみんな強いカードを求めていたから、\nわたし含めまんまと乗せられちゃったわ。\n正直、悔しい。,Everyone was hunting for the next strong card at the tournament; and even I ended up getting strung along. It's quite frustrating; to be honest.
+怪盗サキュバスのカードは、さっきデッキから出して、\n布でぐるぐる巻きにしてそこの岩のところに置いたのだけど、\nこれでもう大丈夫なのかしら。,I took the Thief Succubus card out of my deck a while ago; then I wrapped it up in a cloth and put it under a rock over there.
+またサキュバスが出てこないか心配だわ。\nサキュバスをカードにして送りこんでくるなんて、\nほんと得体の知れない能力よね。,I'm worried about the other succubi. Isn't it a strange ability to be able to send out succubi as cards?
+どの場所も、本来であれば多くのマスターが守っている場所です。\nしかし今回は逆にマスターたちがサキュバスにさせられてしまったため、\nこれが裏目に出てしまいました。,Normally; a place like this city would've been guarded by the many card masters here; but this time; the card masters were made into succubi and became the ones attacking the city.
+エルルさんを助け出し気絶した僕は、また夢を見ていた。,After rescuing Elle and passing out; I began to dream.
+とめどなく昨日の光景が浮かんでいく。,Yesterday's scenes floated endlessly in my mind.
+街を埋め尽くす大勢のサキュバス。彼女たちに襲われる人間。,Countless succubi filled the city; attacking humans indiscriminately.
+その様子はまるで、僕が子どもの時に見た、村が襲われたときの様子のようで。,It was just like what I saw as a child when my village was attacked.
+エルルさんと無我夢中で戦っていたときには感じなかった恐怖が、いまさら、ふつふつと湧き上がってくる。,The fear that I ignored when I was selflessly fighting with Elle was now welling up inside me.
 ・・・・。,
-そして夢はいつもの場面につながる。僕らがサキュバスに襲われ、妹が連れ去られていく、何度も何度も夢で見たあの瞬間。,
-クローゼットで震える僕は、このあと師匠に助け出してもらう。でも、その師匠はもう・・・。,
-僕を助け出してくれる人はもう誰もいない。,
-その事実に、体の震えが止まらなくなる。,
-(・・・。こわい、だれか、たすけて・・・),
-夢の中の自分はまだ幼くて、暗いクローゼットの中で震えていることしかできない。,
-（ん・・・？）,
-そのときふと、自分の指にはめられたリングが目に映った。,
-ギルドリングだ。オレンジ色の宝石がきらりと光っている。,
-腰に手を伸ばすと、子供の時にはまだ持っていないはずのデッキケースがそこにはあった。中には僕が一緒に戦ってきた、大切なカードたちが入っていた。,
-・・・・子どものときは、召喚方法も分からなかったブラックナイトのカード。そのカードも、今ではすっかり手になじんでいる。,
-このカードたちと共に何度も戦った。色々な強いマスターたちにも勝ち、下級のサキュバスとも戦ってきた。そして、いま自分は師匠と同じ、Bランクにいる。,
-僕は深く息を吸うと、心の中で覚悟を決めた。,
-そう、今度は僕が助け出す番だ。子供のときに僕を助けてくれた、師匠も、妹も。必ず。,
-夢の中で僕は、恐怖心を押し殺しクローゼットの扉に手を伸ばした。重い扉をぐっと押すと、扉は大きな音できしみながらゆっくりと開いていく。,
-目を覚ますと、そこは僕たちが逃げ込んできた地下通路だった。ほの暗いごつごつとした空間がどこまでも続いている。,
-{主人公}さん！よかった！目を覚ましましたね！\nううっ、一晩中気絶したままだったので心配でした…。,
-そういってすぐ近くにいた受付さんがこちらにやってきた。,
-{主人公}さんたちが気絶したあと、\nカードマスターのみなさんで周辺状況の調査など色々と行いました。,
-情報共有をし、これからどうするか\nみなで作戦を練る必要があると思います。,
-ですが{主人公}さんは今目が覚めたばかりですし・・・。\n少し落ち着いてからの方がいいでしょう。\n準備ができたら、わたしに話しかけてください。,
-分かりました,
-僕は受付さんの言葉通り、頭がはっきりとするまで少しぶらつくことにした。デッキを見直したり、他のマスターと少し話をしたら、再度受付さんに話かけることにしよう。,
-「サキュバスデュエル前編」の内容はここまでです,
-アップデートが完了するまでメニュー最下部のボタンから街に戻ることができます。,
-街に戻った場合でも、いつでもこの場面に戻ることができます,
-２周目プレイではレベルと所持金とカードを引き継いだ状態でストーリーの最初からプレイできます。,
-２周目プレイに入った場合、この場所には再度ストーリーを進めないと戻れなくなるため、現在の状況のセーブデータを１つ作成しておくことをお勧めします。,
-２周目プレイを開始しますか？,
-開始する,
-しない,
+そして夢はいつもの場面につながる。僕らがサキュバスに襲われ、妹が連れ去られていく、何度も何度も夢で見たあの瞬間。,The dream finally led me where it always does. The moment my family was destroyed and my sister was taken away from me. The moment that I dreamt of night after night.
+クローゼットで震える僕は、このあと師匠に助け出してもらう。でも、その師匠はもう・・・。,I'm trembling in the closet; and after this; Master rescues me. But this time: Master is already...
+僕を助け出してくれる人はもう誰もいない。,There is no one out there who can save me anymore.
+その事実に、体の震えが止まらなくなる。,This fact makes my body shake uncontrollably.
+(・・・。こわい、だれか、たすけて・・・),(....I'm so scared; someone help me...)
+夢の中の自分はまだ幼くて、暗いクローゼットの中で震えていることしかできない。,In my dreams I am still too young to do anything but tremble in that dark closet.
+（ん・・・？）,(Hmm...?)
+そのときふと、自分の指にはめられたリングが目に映った。,It was at that moment that I suddenly saw the ring on my finger.
+ギルドリングだ。オレンジ色の宝石がきらりと光っている。,A guild ring; adorned with a sparkling orange gemstone.
+腰に手を伸ばすと、子供の時にはまだ持っていないはずのデッキケースがそこにはあった。中には僕が一緒に戦ってきた、大切なカードたちが入っていた。,I reached to my waist and found it there; a deck case that I shouldn't yet have had as a child. And yet; it was there; complete with each of the cherished cards that I fought with.
+・・・・子どものときは、召喚方法も分からなかったブラックナイトのカード。そのカードも、今ではすっかり手になじんでいる。,When I was still a child; I didn't even know how to summon the Black Knight. Now that card was very familiar in my hands.
+このカードたちと共に何度も戦った。色々な強いマスターたちにも勝ち、下級のサキュバスとも戦ってきた。そして、いま自分は師匠と同じ、Bランクにいる。,I've fought with these cards countless times. I've won against many strong masters and held my own against lower-ranked succubi. Now; as a B Rank; I've finally reached the same rank as Master.
+僕は深く息を吸うと、心の中で覚悟を決めた。,I took a deep breath and steeled my mind.
+そう、今度は僕が助け出す番だ。子供のときに僕を助けてくれた、師匠も、妹も。必ず。,Yes; now it's my turn to rescue them. Both my master and my sister; who saved me when I was a child. I'm going to make sure of it.
+夢の中で僕は、恐怖心を押し殺しクローゼットの扉に手を伸ばした。重い扉をぐっと押すと、扉は大きな音できしみながらゆっくりと開いていく。,In my dream; I swallowed my fear and reached for the closet door. As I pushed the heavy door; it loudly creaked open...
+目を覚ますと、そこは僕たちが逃げ込んできた地下通路だった。ほの暗いごつごつとした空間がどこまでも続いている。,When I awoke; I found myself in the underground passageway we had escaped to. The dark; rugged space seemed endless.
+{主人公}さん！よかった！目を覚ましましたね！\nううっ、一晩中気絶したままだったので心配でした…。,{主人公}! Thank goodness! You're awake; right? Ugh; I was worried sick about you; you'd been passed out all night...
+そういってすぐ近くにいた受付さんがこちらにやってきた。,The receptionist; who was nearby; then came over to us.
+{主人公}さんたちが気絶したあと、\nカードマスターのみなさんで周辺状況の調査など色々と行いました。,After we fainted; the other card masters investigated the surrounding situation and did various other things.
+情報共有をし、これからどうするか\nみなで作戦を練る必要があると思います。,I think we need to share the information we've gathered and decide together what the plan is moving forward.
+ですが{主人公}さんは今目が覚めたばかりですし・・・。\n少し落ち着いてからの方がいいでしょう。\n準備ができたら、わたしに話しかけてください。,But {主人公} just woke up a moment ago.... It would be better to wait until he's had a chance to gather himself. When you're ready, please talk to me.
+分かりました,Understood.
+僕は受付さんの言葉通り、頭がはっきりとするまで少しぶらつくことにした。デッキを見直したり、他のマスターと少し話をしたら、再度受付さんに話かけることにしよう。,I decided to walk around a bit and clear my head; just as the receptionist had told me to do. After I review my deck and talk to the other masters a bit; I'll go and find the receptionist again.
+「サキュバスデュエル前編」の内容はここまでです,You have reached the end of 「Succubus Duel Part I.」
+アップデートが完了するまでメニュー最下部のボタンから街に戻ることができます。,You can return to the city from the button at the bottom of the menu until the next part is complete.
+街に戻った場合でも、いつでもこの場面に戻ることができます,You can always return to this scene, even if you return back to town
+２周目プレイではレベルと所持金とカードを引き継いだ状態でストーリーの最初からプレイできます。,In New Game +; you can play from the beginning of the story while retaining your level; money; and acquired cards.
+２周目プレイに入った場合、この場所には再度ストーリーを進めないと戻れなくなるため、現在の状況のセーブデータを１つ作成しておくことをお勧めします。,If you begin New Game +; you won't be able to return to this location without advancing through the game again; so it's recommended that you make a seperate save for the current situation.
+２周目プレイを開始しますか？,Would you like to start New Game +?
+開始する,Start
+しない, Don't Start
