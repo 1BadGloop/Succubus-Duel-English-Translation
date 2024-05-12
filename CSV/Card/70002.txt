@@ -4,6 +4,8 @@ default
     &カード画像,F1_Shisyo.png
     &シルエット画像,F1_Silhouette.png
     攻撃エフェクト設定,&&セクシーエフェクト2
+    //Flavor Text
+	&フレーバーテキスト,(Fire/Magician)\nThe Hero's teacher; as well as a B Rank card master. \nShe specializes in Warrior monsters; with her favorites being Samurai themed.\nShe took in the hero when he was orphaned at young age and raised him ever since.\nAlthough she was in her teens at the time and had no idea how to raise a child; she gave it her all to raise him properly.\nHe not only learned how to use cards from her; but learned how to reading; writing; and other important life skills. To the Hero; Master is his teacher as well as his older sister.\nShe's very althletic and experienced in the ways of sex.\nIn addition; her magic prowess is amazing; and her seduction magic can deprive even the most skilled Card Masters of their ability to think; leaving them stunned in ecstasy.
 
 @イベント
     背景,&&師匠家背景
